@@ -1,0 +1,4 @@
+14:16 <dsaxena> $ git grep -i '\((c)\|copyright\).*monta.\?vista' | wc -l
+14:16 <dsaxena> $ git grep -i '\((c)\|copyright\).*\(ibm\|international business machine\)' | wc -l
+14:16 <dsaxena> $ git grep -i '\((c)\|copyright\).*suse' | wc -l
+

@@ -1,0 +1,2916 @@
+graph {
+"aapo tahkola" [fillcolor="#e77168"]
+"aaron durbin" [fillcolor="#e77168"]
+"abhijit bhopatkar" [fillcolor="#e77168"]
+"adam jackson" [fillcolor="#e77168"]
+"adam litke" [fillcolor="#e77168"]
+"adrian bunk" [fillcolor="#e77168"]
+"adrian hunter" [fillcolor="#e77168"]
+"ahmed s. darwish" [fillcolor="#e77168"]
+"akinobu mita" [fillcolor="#e77168"]
+"al viro" [fillcolor="#e77168"]
+"alan cox" [fillcolor="#e77168"]
+"alan hourihane" [fillcolor="#e77168"]
+"alan stern" [fillcolor="#e77168"]
+"alasdair g kergon" [fillcolor="#e77168"]
+"albert lee" [fillcolor="#e77168"]
+"alberto bertogli" [fillcolor="#e77168"]
+"alessandro zummo" [fillcolor="#e77168"]
+"alex dubov" [fillcolor="#e77168"]
+"alex landau" [fillcolor="#e77168"]
+"alex tomas" [fillcolor="#e77168"]
+"alex villacis lasso" [fillcolor="#e77168"]
+"alex williamson" [fillcolor="#e77168"]
+"alexander bokovoy" [fillcolor="#e77168"]
+"alexander e. patrakov" [fillcolor="#e77168"]
+"alexandr andreev" [fillcolor="#e77168"]
+"alexandra n. kossovsky" [fillcolor="#e77168"]
+"alexey dobriyan" [fillcolor="#e77168"]
+"alexey kuznetsov" [fillcolor="#e77168"]
+"alexey starikovskiy" [fillcolor="#e77168"]
+"ali ayoub" [fillcolor="#e77168"]
+"alistair john strachan" [fillcolor="#e77168"]
+"allan stephens" [fillcolor="#e77168"]
+"amit arora" [fillcolor="#e77168"]
+"amit choudhary" [fillcolor="#e77168"]
+"amnon aaronsohn" [fillcolor="#e77168"]
+"amol lad" [fillcolor="#e77168"]
+"amy griffis" [fillcolor="#e77168"]
+"ananth n mavinakayanahalli" [fillcolor="#e77168"]
+"andi kleen" [fillcolor="#e77168"]
+"andre renaud" [fillcolor="#e77168"]
+"andrea arcangeli" [fillcolor="#e77168"]
+"andrea paterniani" [fillcolor="#e77168"]
+"andrea righi" [fillcolor="#e77168"]
+"andreas dilger" [fillcolor="#e77168"]
+"andreas gruenbacher" [fillcolor="#e77168"]
+"andreas mohr" [fillcolor="#e77168"]
+"andreas oberritter" [fillcolor="#e77168"]
+"andreas schwab" [fillcolor="#e77168"]
+"andrei konovalov" [fillcolor="#e77168"]
+"andres salomon" [fillcolor="#e77168"]
+"andrew hastings" [fillcolor="#e77168"]
+"andrew hendry" [fillcolor="#e77168"]
+"andrew morton" [fillcolor="#e77168"]
+"andrew vasquez" [fillcolor="#e77168"]
+"andrew victor" [fillcolor="#e77168"]
+"andrey borzenkov" [fillcolor="#e77168"]
+"andy fleming" [fillcolor="#e77168"]
+"andy gospodarek" [fillcolor="#e77168"]
+"andy green" [fillcolor="#e77168"]
+"andy whitcroft" [fillcolor="#e77168"]
+"aneesh kumar k.v" [fillcolor="#e77168"]
+"angelo p. castellani" [fillcolor="#e77168"]
+"anil s keshavamurthy" [fillcolor="#e77168"]
+"anthony liguori" [fillcolor="#e77168"]
+"antoine jacquet" [fillcolor="#e77168"]
+"anton altaparmakov" [fillcolor="#e77168"]
+"anton blanchard" [fillcolor="#e77168"]
+"antonino a. daplas" [fillcolor="#e77168"]
+"antonino daplas" [fillcolor="#e77168"]
+"arjan van de ven" [fillcolor="#e77168"]
+"armin schindler" [fillcolor="#e77168"]
+"arnaldo carvalho de melo" [fillcolor="#e77168"]
+"arnaud patard" [fillcolor="#e77168"]
+"arnd bergmann" [fillcolor="#e77168"]
+"artem bityutskiy" [fillcolor="#e77168"]
+"arthur jones" [fillcolor="#e77168"]
+"ate wijma" [fillcolor="#e77168"]
+"atsushi nemoto" [fillcolor="#e77168"]
+"aubrey li" [fillcolor="#e77168"]
+"auke kok" [fillcolor="#e77168"]
+"aurelien jarno" [fillcolor="#e77168"]
+"avi kivity" [fillcolor="#e77168"]
+"avuton olrich" [fillcolor="#e77168"]
+"ayaz abdulla" [fillcolor="#e77168"]
+"badari pulavarty" [fillcolor="#e77168"]
+"balbir singh" [fillcolor="#e77168"]
+"bart de schuymer" [fillcolor="#e77168"]
+"bart oldeman" [fillcolor="#e77168"]
+"bart van assche" [fillcolor="#e77168"]
+"bartlomiej zolnierkiewicz" [fillcolor="#e77168"]
+"baruch even" [fillcolor="#e77168"]
+"bastian blank" [fillcolor="#e77168"]
+"becky bruce" [fillcolor="#e77168"]
+"ben collins" [fillcolor="#e77168"]
+"ben dooks" [fillcolor="#e77168"]
+"ben gardner" [fillcolor="#e77168"]
+"benjamin e. marzinski" [fillcolor="#e77168"]
+"benjamin herrenschmidt" [fillcolor="#e77168"]
+"benjamin lahaise" [fillcolor="#e77168"]
+"benjamin li" [fillcolor="#e77168"]
+"benjamin marzinski" [fillcolor="#e77168"]
+"bernd schmidt" [fillcolor="#e77168"]
+"bernhard kaindl" [fillcolor="#e77168"]
+"bernhard kauer" [fillcolor="#e77168"]
+"bernhard walle" [fillcolor="#e77168"]
+"bert wesarg" [fillcolor="#e77168"]
+"bhavana nagendra" [fillcolor="#e77168"]
+"bill gatliff" [fillcolor="#e77168"]
+"bill nottingham" [fillcolor="#e77168"]
+"bjorn helgaas" [fillcolor="#e77168"]
+"bjorn steinbrink" [fillcolor="#e77168"]
+"bob moore" [fillcolor="#e77168"]
+"bob peterson" [fillcolor="#e77168"]
+"bob picco" [fillcolor="#e77168"]
+"borislav petkov" [fillcolor="#e77168"]
+"brandon craig rhodes" [fillcolor="#e77168"]
+"brian braunstein" [fillcolor="#e77168"]
+"brian gerst" [fillcolor="#e77168"]
+"brian king" [fillcolor="#e77168"]
+"brice goglin" [fillcolor="#e77168"]
+"bruce allan" [fillcolor="#e77168"]
+"bruce schmid" [fillcolor="#e77168"]
+"bryan o'sullivan" [fillcolor="#e77168"]
+"bryan wu" [fillcolor="#e77168"]
+"bryn reeves" [fillcolor="#e77168"]
+"carl-daniel hailfinger" [fillcolor="#ea826d"]
+"carlos eduardo aguiar" [fillcolor="#ea826d"]
+"catalin marinas" [fillcolor="#ea826d"]
+"cedric le goater" [fillcolor="#ea826d"]
+"charles pillar" [fillcolor="#ea826d"]
+"chase maupin" [fillcolor="#ea826d"]
+"chris ball" [fillcolor="#ea826d"]
+"chris clayton" [fillcolor="#ea826d"]
+"chris dearman" [fillcolor="#ea826d"]
+"chris kennedy" [fillcolor="#ea826d"]
+"chris lalancette" [fillcolor="#ea826d"]
+"chris snook" [fillcolor="#ea826d"]
+"chris wright" [fillcolor="#ea826d"]
+"chris zankel" [fillcolor="#ea826d"]
+"christian engelmayer" [fillcolor="#ea826d"]
+"christian krafft" [fillcolor="#ea826d"]
+"christian limpach" [fillcolor="#ea826d"]
+"christian rothlaender" [fillcolor="#ea826d"]
+"christian volkmann" [fillcolor="#ea826d"]
+"christof schmitt" [fillcolor="#ea826d"]
+"christoph hellwig" [fillcolor="#ea826d"]
+"christoph laemter" [fillcolor="#ea826d"]
+"christoph lameter" [fillcolor="#ea826d"]
+"christophe cattelain" [fillcolor="#ea826d"]
+"chuck ebbert" [fillcolor="#ea826d"]
+"chuck lever" [fillcolor="#ea826d"]
+"clemens ladisch" [fillcolor="#ea826d"]
+"cliff brake" [fillcolor="#ea826d"]
+"conke hu" [fillcolor="#ea826d"]
+"corentin chary" [fillcolor="#ea826d"]
+"corey minyard" [fillcolor="#ea826d"]
+"corey mutter" [fillcolor="#ea826d"]
+"cornelia huck" [fillcolor="#ea826d"]
+"craig shelley" [fillcolor="#ea826d"]
+"cyrill gorcunov" [fillcolor="#ea826d"]
+"dale farnsworth" [fillcolor="#ea826d"]
+"damian minkov" [fillcolor="#ea826d"]
+"dan aloni" [fillcolor="#ea826d"]
+"dan malek" [fillcolor="#ea826d"]
+"dan williams" [fillcolor="#ea826d"]
+"daniel drake" [fillcolor="#ea826d"]
+"daniel mack" [fillcolor="#ea826d"]
+"daniel p. engel" [fillcolor="#ea826d"]
+"daniel ritz" [fillcolor="#ea826d"]
+"daniel t chen" [fillcolor="#ea826d"]
+"daniel walker" [fillcolor="#ea826d"]
+"daniel wolstenholme" [fillcolor="#ea826d"]
+"dann frazier" [fillcolor="#ea826d"]
+"danny budik" [fillcolor="#ea826d"]
+"darrick j. wong" [fillcolor="#ea826d"]
+"dave airlie" [fillcolor="#ea826d"]
+"dave gilbert" [fillcolor="#ea826d"]
+"dave jiang" [fillcolor="#ea826d"]
+"dave jones" [fillcolor="#ea826d"]
+"dave kleikamp" [fillcolor="#ea826d"]
+"dave olson" [fillcolor="#ea826d"]
+"dave young" [fillcolor="#ea826d"]
+"davi arnaut" [fillcolor="#ea826d"]
+"david brownell" [fillcolor="#ea826d"]
+"david chinner" [fillcolor="#ea826d"]
+"david gibson" [fillcolor="#ea826d"]
+"david greaves" [fillcolor="#ea826d"]
+"david hardeman" [fillcolor="#ea826d"]
+"david hollis" [fillcolor="#ea826d"]
+"david howells" [fillcolor="#ea826d"]
+"david l stevens" [fillcolor="#ea826d"]
+"david lamparter" [fillcolor="#ea826d"]
+"david milburn" [fillcolor="#ea826d"]
+"david p. reed" [fillcolor="#ea826d"]
+"david rientjes" [fillcolor="#ea826d"]
+"david s. miller" [fillcolor="#ea826d"]
+"david sterba" [fillcolor="#ea826d"]
+"david teigland" [fillcolor="#ea826d"]
+"david woodhouse" [fillcolor="#ea826d"]
+"davide brini" [fillcolor="#ea826d"]
+"davide libenzi" [fillcolor="#ea826d"]
+"deepak saxena" [fillcolor="#ea826d"]
+"denis cheng" [fillcolor="#ea826d"]
+"denis v. lunev" [fillcolor="#ea826d"]
+"dennis ranke" [fillcolor="#ea826d"]
+"denver gingerich" [fillcolor="#ea826d"]
+"diego calleja" [fillcolor="#ea826d"]
+"dmitriy monakhov" [fillcolor="#ea826d"]
+"dmitry adamushko" [fillcolor="#ea826d"]
+"dmitry mishin" [fillcolor="#ea826d"]
+"dmitry pervushin" [fillcolor="#ea826d"]
+"dmitry torokhov" [fillcolor="#ea826d"]
+"domen puncer" [fillcolor="#ea826d"]
+"domenico andreoli" [fillcolor="#ea826d"]
+"dominik brodowski" [fillcolor="#ea826d"]
+"don fry" [fillcolor="#ea826d"]
+"don mullis" [fillcolor="#ea826d"]
+"donald douwsma" [fillcolor="#ea826d"]
+"dor laor" [fillcolor="#ea826d"]
+"doug chapman" [fillcolor="#ea826d"]
+"douglas gilbert" [fillcolor="#ea826d"]
+"douglas landgraf" [fillcolor="#ea826d"]
+"douglas schilling landgraf" [fillcolor="#ea826d"]
+"dragos carp" [fillcolor="#ea826d"]
+"duncan sands" [fillcolor="#ea826d"]
+"dwaine garden" [fillcolor="#ea826d"]
+"dwaine p. garden" [fillcolor="#ea826d"]
+"eberhard fahle" [fillcolor="#ee9c68"]
+"ed lin" [fillcolor="#ee9c68"]
+"ed vipas" [fillcolor="#ee9c68"]
+"edward goggin" [fillcolor="#ee9c68"]
+"egmont koblinger" [fillcolor="#ee9c68"]
+"egor martovetsky" [fillcolor="#ee9c68"]
+"eli cohen" [fillcolor="#ee9c68"]
+"emil georgiev" [fillcolor="#ee9c68"]
+"enrico scholz" [fillcolor="#ee9c68"]
+"eric anholt" [fillcolor="#ee9c68"]
+"eric dumazet" [fillcolor="#ee9c68"]
+"eric miao" [fillcolor="#ee9c68"]
+"eric moore" [fillcolor="#ee9c68"]
+"eric paris" [fillcolor="#ee9c68"]
+"eric piel" [fillcolor="#ee9c68"]
+"eric rannaud" [fillcolor="#ee9c68"]
+"eric sandeen" [fillcolor="#ee9c68"]
+"eric sesterhenn" [fillcolor="#ee9c68"]
+"eric w. biederman" [fillcolor="#ee9c68"]
+"erik hovland" [fillcolor="#ee9c68"]
+"eugene surovegin" [fillcolor="#ee9c68"]
+"eugene teo" [fillcolor="#ee9c68"]
+"evgeniy polyakov" [fillcolor="#ee9c68"]
+"fabio massimo di nitto" [fillcolor="#ee9c68"]
+"fabrice aeschbacher" [fillcolor="#ee9c68"]
+"fengguang wu" [fillcolor="#ee9c68"]
+"fenghua yu" [fillcolor="#ee9c68"]
+"fernando luis vazquez cao" [fillcolor="#ee9c68"]
+"finn thain" [fillcolor="#ee9c68"]
+"florian fainelli" [fillcolor="#ee9c68"]
+"florian zumbiehl" [fillcolor="#ee9c68"]
+"florin malita" [fillcolor="#ee9c68"]
+"folkert van heusden" [fillcolor="#ee9c68"]
+"franck bui-huu" [fillcolor="#ee9c68"]
+"frank filz" [fillcolor="#ee9c68"]
+"frank haverkamp" [fillcolor="#ee9c68"]
+"frank mandarino" [fillcolor="#ee9c68"]
+"frank pavlic" [fillcolor="#ee9c68"]
+"frederik deweerdt" [fillcolor="#ee9c68"]
+"fujita tomonori" [fillcolor="#ee9c68"]
+"g. liakhovetski" [fillcolor="#f4ba6e"]
+"gabriel mansi" [fillcolor="#f4ba6e"]
+"gabriel paubert" [fillcolor="#f4ba6e"]
+"gary zambrano" [fillcolor="#f4ba6e"]
+"gautham r shenoy" [fillcolor="#f4ba6e"]
+"geert uytterhoeven" [fillcolor="#f4ba6e"]
+"geoff levand" [fillcolor="#f4ba6e"]
+"georg acher" [fillcolor="#f4ba6e"]
+"gerald britton" [fillcolor="#f4ba6e"]
+"gerald schaefer" [fillcolor="#f4ba6e"]
+"gerd hoffmann" [fillcolor="#f4ba6e"]
+"gerrit renker" [fillcolor="#f4ba6e"]
+"giuliano pochini" [fillcolor="#f4ba6e"]
+"glauber de oliveira costa" [fillcolor="#f4ba6e"]
+"graeme gregory" [fillcolor="#f4ba6e"]
+"grant grundler" [fillcolor="#f4ba6e"]
+"grant likely" [fillcolor="#f4ba6e"]
+"greg kroah-hartman" [fillcolor="#f4ba6e"]
+"greg ungerer" [fillcolor="#f4ba6e"]
+"gregor jasny" [fillcolor="#f4ba6e"]
+"guennadi liakhovetski" [fillcolor="#f4ba6e"]
+"guido scholz" [fillcolor="#f4ba6e"]
+"guillaume chazarain" [fillcolor="#f4ba6e"]
+"guy streeter" [fillcolor="#f4ba6e"]
+"h. peter anvin" [fillcolor="#f4ba6e"]
+"haavard skinnemoen" [fillcolor="#f4ba6e"]
+"hal rosenstock" [fillcolor="#f4ba6e"]
+"hannes reinecke" [fillcolor="#f4ba6e"]
+"hans engelen" [fillcolor="#f4ba6e"]
+"hans j. koch" [fillcolor="#f4ba6e"]
+"hans verkuil" [fillcolor="#f4ba6e"]
+"hans-christian egtvedt" [fillcolor="#f4ba6e"]
+"hans-juergen koch" [fillcolor="#f4ba6e"]
+"hansjoerg lipp" [fillcolor="#f4ba6e"]
+"harald welte" [fillcolor="#f4ba6e"]
+"hartmut birr" [fillcolor="#f4ba6e"]
+"hartmut hackmann" [fillcolor="#f4ba6e"]
+"heikki orsila" [fillcolor="#f4ba6e"]
+"heiko carstens" [fillcolor="#f4ba6e"]
+"heiko j schick" [fillcolor="#f4ba6e"]
+"heinz mauelshagen" [fillcolor="#f4ba6e"]
+"helge deller" [fillcolor="#f4ba6e"]
+"hendrik borghorst" [fillcolor="#f4ba6e"]
+"henrik kretzschmar" [fillcolor="#f4ba6e"]
+"henrique de moraes holschuh" [fillcolor="#f4ba6e"]
+"henry su" [fillcolor="#f4ba6e"]
+"herbert xu" [fillcolor="#f4ba6e"]
+"hirokazu takata" [fillcolor="#f4ba6e"]
+"hiroshi doyu" [fillcolor="#f4ba6e"]
+"hisashi hifumi" [fillcolor="#f4ba6e"]
+"hitoshi yamamoto" [fillcolor="#f4ba6e"]
+"hoang-nam nguyen" [fillcolor="#f4ba6e"]
+"holger magnussen" [fillcolor="#f4ba6e"]
+"holger schurig" [fillcolor="#f4ba6e"]
+"holger smolinski" [fillcolor="#f4ba6e"]
+"hong liu" [fillcolor="#f4ba6e"]
+"horst h. von brand" [fillcolor="#f4ba6e"]
+"horst hummel" [fillcolor="#f4ba6e"]
+"hugh dickins" [fillcolor="#f4ba6e"]
+"ian armstrong" [fillcolor="#fdfb72"]
+"ian campbell" [fillcolor="#fdfb72"]
+"ian kumlien" [fillcolor="#fdfb72"]
+"ian mcdonald" [fillcolor="#fdfb72"]
+"ian molton" [fillcolor="#fdfb72"]
+"ian pratt" [fillcolor="#fdfb72"]
+"igor mammedov" [fillcolor="#fdfb72"]
+"ilpo jarvinen" [fillcolor="#fdfb72"]
+"ilya a. volynets-evenbakh" [fillcolor="#fdfb72"]
+"imre deak" [fillcolor="#fdfb72"]
+"ingo molnar" [fillcolor="#fdfb72"]
+"ionut nicu" [fillcolor="#fdfb72"]
+"ishai rabinovitz" [fillcolor="#fdfb72"]
+"ishizaki kou" [fillcolor="#fdfb72"]
+"ivan kokshaysky" [fillcolor="#fdfb72"]
+"ivo van doorn" [fillcolor="#fdfb72"]
+"j. bruce fields" [fillcolor="#fdfb72"]
+"jack morgenstein" [fillcolor="#fdfb72"]
+"jack steiner" [fillcolor="#fdfb72"]
+"jake moilanen" [fillcolor="#fdfb72"]
+"jamal hadi salim" [fillcolor="#fdfb72"]
+"james bottomley" [fillcolor="#fdfb72"]
+"james carter" [fillcolor="#fdfb72"]
+"james chapman" [fillcolor="#fdfb72"]
+"james courtier-dutton" [fillcolor="#fdfb72"]
+"james morris" [fillcolor="#fdfb72"]
+"james puthukattukaran" [fillcolor="#fdfb72"]
+"james simmons" [fillcolor="#fdfb72"]
+"james smart" [fillcolor="#fdfb72"]
+"james t klaas" [fillcolor="#fdfb72"]
+"james yang" [fillcolor="#fdfb72"]
+"jan altenberg" [fillcolor="#fdfb72"]
+"jan beulich" [fillcolor="#fdfb72"]
+"jan engelhardt" [fillcolor="#fdfb72"]
+"jan glauber" [fillcolor="#fdfb72"]
+"jan kara" [fillcolor="#fdfb72"]
+"jan kiszka" [fillcolor="#fdfb72"]
+"jan kratochvil" [fillcolor="#fdfb72"]
+"jan nikitenko" [fillcolor="#fdfb72"]
+"jan-bernd themann" [fillcolor="#fdfb72"]
+"janusz krzysztofik" [fillcolor="#fdfb72"]
+"jarek poplawski" [fillcolor="#fdfb72"]
+"jarod wilson" [fillcolor="#fdfb72"]
+"jaroslav kysela" [fillcolor="#fdfb72"]
+"jason gaston" [fillcolor="#fdfb72"]
+"jason jin" [fillcolor="#fdfb72"]
+"jason uhlenkott" [fillcolor="#fdfb72"]
+"javier cardona" [fillcolor="#fdfb72"]
+"jay cliburn" [fillcolor="#fdfb72"]
+"jay estabrook" [fillcolor="#fdfb72"]
+"jay lan" [fillcolor="#fdfb72"]
+"jay vosburgh" [fillcolor="#fdfb72"]
+"jaya kumar" [fillcolor="#fdfb72"]
+"jean delvare" [fillcolor="#fdfb72"]
+"jean tourrilhes" [fillcolor="#fdfb72"]
+"jean-christian de rivaz" [fillcolor="#fdfb72"]
+"jeff dike" [fillcolor="#fdfb72"]
+"jeff garzik" [fillcolor="#fdfb72"]
+"jeff haran" [fillcolor="#fdfb72"]
+"jeff layton" [fillcolor="#fdfb72"]
+"jeff mahoney" [fillcolor="#fdfb72"]
+"jeffrey layton" [fillcolor="#fdfb72"]
+"jelle foks" [fillcolor="#fdfb72"]
+"jennifer hunt" [fillcolor="#fdfb72"]
+"jens axboe" [fillcolor="#fdfb72"]
+"jens osterkamp" [fillcolor="#fdfb72"]
+"jeremy fitzhardinge" [fillcolor="#fdfb72"]
+"jeremy kerr" [fillcolor="#fdfb72"]
+"jerome borsboom" [fillcolor="#fdfb72"]
+"jesper juhl" [fillcolor="#fdfb72"]
+"jesse barnes" [fillcolor="#fdfb72"]
+"jesse brandeburg" [fillcolor="#fdfb72"]
+"jiang bo" [fillcolor="#fdfb72"]
+"jie zhang" [fillcolor="#fdfb72"]
+"jim keniston" [fillcolor="#fdfb72"]
+"jing min zhao" [fillcolor="#fdfb72"]
+"jiri benc" [fillcolor="#fdfb72"]
+"jiri kosina" [fillcolor="#fdfb72"]
+"jiri slaby" [fillcolor="#fdfb72"]
+"joachim deguara" [fillcolor="#fdfb72"]
+"joachim fenkes" [fillcolor="#fdfb72"]
+"joakim tjernlund" [fillcolor="#fdfb72"]
+"joe perches" [fillcolor="#fdfb72"]
+"joel becker" [fillcolor="#fdfb72"]
+"joel schopp" [fillcolor="#fdfb72"]
+"joerg roedel" [fillcolor="#fdfb72"]
+"joern engel" [fillcolor="#fdfb72"]
+"joey goncalves" [fillcolor="#fdfb72"]
+"joey s goncalves" [fillcolor="#fdfb72"]
+"johan henriksson" [fillcolor="#fdfb72"]
+"johann deneux" [fillcolor="#fdfb72"]
+"johannes berg" [fillcolor="#fdfb72"]
+"john anthony kazos jr" [fillcolor="#fdfb72"]
+"john anthony kazos jr." [fillcolor="#fdfb72"]
+"john feeney" [fillcolor="#fdfb72"]
+"john heffner" [fillcolor="#fdfb72"]
+"john johansen" [fillcolor="#fdfb72"]
+"john keller" [fillcolor="#fdfb72"]
+"john p harvey" [fillcolor="#fdfb72"]
+"john rigby" [fillcolor="#fdfb72"]
+"john stultz" [fillcolor="#fdfb72"]
+"john utz" [fillcolor="#fdfb72"]
+"john w. linville" [fillcolor="#fdfb72"]
+"jon burgess" [fillcolor="#fdfb72"]
+"jon loeliger" [fillcolor="#fdfb72"]
+"jon paul maloy" [fillcolor="#fdfb72"]
+"jon tollefson" [fillcolor="#fdfb72"]
+"jonathan brassow" [fillcolor="#fdfb72"]
+"jonathan corbet" [fillcolor="#fdfb72"]
+"jonathan e brassow" [fillcolor="#fdfb72"]
+"jordan crouse" [fillcolor="#fdfb72"]
+"jorge boncompte" [fillcolor="#fdfb72"]
+"jose alberto reguero" [fillcolor="#fdfb72"]
+"josef 'jeff' sipek" [fillcolor="#fdfb72"]
+"josef bacik" [fillcolor="#fdfb72"]
+"josef sipek" [fillcolor="#fdfb72"]
+"josef whiter" [fillcolor="#fdfb72"]
+"josh boyer" [fillcolor="#fdfb72"]
+"josh triplett" [fillcolor="#fdfb72"]
+"joshua n. pritikin" [fillcolor="#fdfb72"]
+"jouni malinen" [fillcolor="#fdfb72"]
+"joy latten" [fillcolor="#fdfb72"]
+"jrgen schindele" [fillcolor="#fdfb72"]
+"juerg haefliger" [fillcolor="#fdfb72"]
+"juergen orczykowski" [fillcolor="#fdfb72"]
+"juha yrjola" [fillcolor="#fdfb72"]
+"julian cable" [fillcolor="#fdfb72"]
+"junio c hamano" [fillcolor="#fdfb72"]
+"kai svahn" [fillcolor="#89ca7f"]
+"kailang yang" [fillcolor="#89ca7f"]
+"kalash nainwal" [fillcolor="#89ca7f"]
+"karl macmillan" [fillcolor="#89ca7f"]
+"karl pickett" [fillcolor="#89ca7f"]
+"karsten keil" [fillcolor="#89ca7f"]
+"karsten wiese" [fillcolor="#89ca7f"]
+"kay sievers" [fillcolor="#89ca7f"]
+"kaz kojima" [fillcolor="#89ca7f"]
+"kazunori miyazawa" [fillcolor="#89ca7f"]
+"kees cook" [fillcolor="#89ca7f"]
+"ken chen" [fillcolor="#89ca7f"]
+"kenichi nagai" [fillcolor="#89ca7f"]
+"kenji kaneshige" [fillcolor="#89ca7f"]
+"kenneth w chen" [fillcolor="#89ca7f"]
+"kevin corry" [fillcolor="#89ca7f"]
+"kevin hilman" [fillcolor="#89ca7f"]
+"kevin thayer" [fillcolor="#89ca7f"]
+"kevin welton" [fillcolor="#89ca7f"]
+"kim phillips" [fillcolor="#89ca7f"]
+"kirill korotaev" [fillcolor="#89ca7f"]
+"klaus kudielka" [fillcolor="#89ca7f"]
+"kogiidena" [fillcolor="#89ca7f"]
+"komuro" [fillcolor="#89ca7f"]
+"konrad rzeszutek" [fillcolor="#89ca7f"]
+"konstantin sharlaimov" [fillcolor="#89ca7f"]
+"kou ishizaki" [fillcolor="#89ca7f"]
+"kouta ooizumi" [fillcolor="#89ca7f"]
+"krishna kumar" [fillcolor="#89ca7f"]
+"kristen carlson accardi" [fillcolor="#89ca7f"]
+"kristian hoegsberg" [fillcolor="#89ca7f"]
+"kristoffer ericson" [fillcolor="#89ca7f"]
+"krzysztof halasa" [fillcolor="#89ca7f"]
+"krzysztof helt" [fillcolor="#89ca7f"]
+"krzysztof.helt" [fillcolor="#89ca7f"]
+"kumar gala" [fillcolor="#89ca7f"]
+"kyle mcmartin" [fillcolor="#89ca7f"]
+"kyungmin park" [fillcolor="#89ca7f"]
+"lachlan mcilroy" [fillcolor="#89ca7f"]
+"ladislav michl" [fillcolor="#89ca7f"]
+"larry finger" [fillcolor="#89ca7f"]
+"lars reemts" [fillcolor="#89ca7f"]
+"lasse collin" [fillcolor="#89ca7f"]
+"lee trager" [fillcolor="#89ca7f"]
+"len brown" [fillcolor="#89ca7f"]
+"len sorensen" [fillcolor="#89ca7f"]
+"lennart poettering" [fillcolor="#89ca7f"]
+"lennert buytenhek" [fillcolor="#89ca7f"]
+"leon leong" [fillcolor="#89ca7f"]
+"li yang" [fillcolor="#89ca7f"]
+"liam girdwood" [fillcolor="#89ca7f"]
+"linas vepstas" [fillcolor="#89ca7f"]
+"linus torvalds" [fillcolor="#89ca7f"]
+"luc saillard" [fillcolor="#89ca7f"]
+"luca risolia" [fillcolor="#89ca7f"]
+"ludwig nussel" [fillcolor="#89ca7f"]
+"luis carlos cobo rus" [fillcolor="#89ca7f"]
+"luis carlos cobo" [fillcolor="#89ca7f"]
+"luis carlos" [fillcolor="#89ca7f"]
+"luis r. rodriguez" [fillcolor="#89ca7f"]
+"lukas hejtmanek" [fillcolor="#89ca7f"]
+"luke browning" [fillcolor="#89ca7f"]
+"luugi marsan" [fillcolor="#89ca7f"]
+"maciej w. rozycki" [fillcolor="#38b289"]
+"malahal naineni" [fillcolor="#38b289"]
+"manish lachwani" [fillcolor="#38b289"]
+"manu abraham" [fillcolor="#38b289"]
+"manuel lauss" [fillcolor="#38b289"]
+"marc butler" [fillcolor="#38b289"]
+"marc eshel" [fillcolor="#38b289"]
+"marc pignat" [fillcolor="#38b289"]
+"marc st-jean" [fillcolor="#38b289"]
+"marcel holtmann" [fillcolor="#38b289"]
+"marcel selhorst" [fillcolor="#38b289"]
+"marcelo tosatti" [fillcolor="#38b289"]
+"marcin garski" [fillcolor="#38b289"]
+"marcin juszkiewicz" [fillcolor="#38b289"]
+"marco costalba" [fillcolor="#38b289"]
+"marco gittler" [fillcolor="#38b289"]
+"mariusz kozlowski" [fillcolor="#38b289"]
+"mark a. greer" [fillcolor="#38b289"]
+"mark brown" [fillcolor="#38b289"]
+"mark debbage" [fillcolor="#38b289"]
+"mark fasheh" [fillcolor="#38b289"]
+"mark fortescue" [fillcolor="#38b289"]
+"mark glines" [fillcolor="#38b289"]
+"mark haverkamp" [fillcolor="#38b289"]
+"mark huth" [fillcolor="#38b289"]
+"mark langsdorf" [fillcolor="#38b289"]
+"mark lord" [fillcolor="#38b289"]
+"mark mason" [fillcolor="#38b289"]
+"mark salyzyn" [fillcolor="#38b289"]
+"marko vrh" [fillcolor="#38b289"]
+"markus dahms" [fillcolor="#38b289"]
+"markus f.x.j. oberhumer" [fillcolor="#38b289"]
+"markus rechberger" [fillcolor="#38b289"]
+"martin habets" [fillcolor="#38b289"]
+"martin k. petersen" [fillcolor="#38b289"]
+"martin michlmayr" [fillcolor="#38b289"]
+"martin murray" [fillcolor="#38b289"]
+"martin peschke" [fillcolor="#38b289"]
+"martin schwidefsky" [fillcolor="#38b289"]
+"marton nameth" [fillcolor="#38b289"]
+"marvin raaijmakers" [fillcolor="#38b289"]
+"masahide nakamura" [fillcolor="#38b289"]
+"masashi kimoto" [fillcolor="#38b289"]
+"matej kenda" [fillcolor="#38b289"]
+"mathieu desnoyers" [fillcolor="#38b289"]
+"matt carlson" [fillcolor="#38b289"]
+"matt domsch" [fillcolor="#38b289"]
+"matt keenen" [fillcolor="#38b289"]
+"matt laplante" [fillcolor="#38b289"]
+"matt mackall" [fillcolor="#38b289"]
+"matt reimer" [fillcolor="#38b289"]
+"matthew davidson" [fillcolor="#38b289"]
+"matthew dharm" [fillcolor="#38b289"]
+"matthew garrett" [fillcolor="#38b289"]
+"matthew wilcox" [fillcolor="#38b289"]
+"matthias goebl" [fillcolor="#38b289"]
+"matthias kaehlcke" [fillcolor="#38b289"]
+"matthias urlichs" [fillcolor="#38b289"]
+"matthieu castet" [fillcolor="#38b289"]
+"mattia dongili" [fillcolor="#38b289"]
+"mattias nissler" [fillcolor="#38b289"]
+"matze" [fillcolor="#38b289"]
+"mauro carvalho chehab" [fillcolor="#38b289"]
+"maxim levitsky" [fillcolor="#38b289"]
+"mel gorman" [fillcolor="#38b289"]
+"michael albaugh" [fillcolor="#38b289"]
+"michael barkowski" [fillcolor="#38b289"]
+"michael buesch" [fillcolor="#38b289"]
+"michael chan" [fillcolor="#38b289"]
+"michael ellerman" [fillcolor="#38b289"]
+"michael halcrow" [fillcolor="#38b289"]
+"michael hanselmann" [fillcolor="#38b289"]
+"michael hennerich" [fillcolor="#38b289"]
+"michael holzheu" [fillcolor="#38b289"]
+"michael krufky" [fillcolor="#38b289"]
+"michael loehr" [fillcolor="#38b289"]
+"michael milner" [fillcolor="#38b289"]
+"michael neuling" [fillcolor="#38b289"]
+"michael opdenacker" [fillcolor="#38b289"]
+"michael reiss" [fillcolor="#38b289"]
+"michael s. tsirkin" [fillcolor="#38b289"]
+"michael schmitz" [fillcolor="#38b289"]
+"michael tokarev" [fillcolor="#38b289"]
+"michael westerhof" [fillcolor="#38b289"]
+"michael wu" [fillcolor="#38b289"]
+"michael-luke jones" [fillcolor="#38b289"]
+"michal cijoml semler" [fillcolor="#38b289"]
+"michal januszewski" [fillcolor="#38b289"]
+"michal miroslaw" [fillcolor="#38b289"]
+"michal ostrowski" [fillcolor="#38b289"]
+"michal piotrowski" [fillcolor="#38b289"]
+"michal schmidt" [fillcolor="#38b289"]
+"michel danzer" [fillcolor="#38b289"]
+"miguel ojeda sandonis" [fillcolor="#38b289"]
+"mika kukkonen" [fillcolor="#38b289"]
+"mikael pettersson" [fillcolor="#38b289"]
+"mikael starvik" [fillcolor="#38b289"]
+"mike accetta" [fillcolor="#38b289"]
+"mike anderson" [fillcolor="#38b289"]
+"mike christie" [fillcolor="#38b289"]
+"mike frysinger" [fillcolor="#38b289"]
+"mike isely" [fillcolor="#38b289"]
+"mike miller" [fillcolor="#38b289"]
+"mike rapoport" [fillcolor="#38b289"]
+"miklos szeredi" [fillcolor="#38b289"]
+"milan broz" [fillcolor="#38b289"]
+"milan kocian" [fillcolor="#38b289"]
+"milan svoboda" [fillcolor="#38b289"]
+"milind arun choudhary" [fillcolor="#38b289"]
+"milton miller" [fillcolor="#38b289"]
+"mingming cao" [fillcolor="#38b289"]
+"mitch williams" [fillcolor="#38b289"]
+"mithlesh thukral" [fillcolor="#38b289"]
+"mitsuru chinen" [fillcolor="#38b289"]
+"mokuno masakazu" [fillcolor="#38b289"]
+"monakhov dmitriy" [fillcolor="#38b289"]
+"morten banzon" [fillcolor="#38b289"]
+"naranjo manuel francisco" [fillcolor="#38b289"]
+"nate diller" [fillcolor="#38b289"]
+"nathan scott" [fillcolor="#38b289"]
+"neil brown" [fillcolor="#38b289"]
+"neil horman" [fillcolor="#38b289"]
+"neil superna armstrong" [fillcolor="#38b289"]
+"nick andrew" [fillcolor="#38b289"]
+"nick piggin" [fillcolor="#38b289"]
+"nicolas boichat" [fillcolor="#38b289"]
+"nicolas ferre" [fillcolor="#38b289"]
+"nicolas pitre" [fillcolor="#38b289"]
+"nicu ioan petru" [fillcolor="#38b289"]
+"nigel cunningham" [fillcolor="#38b289"]
+"nishanth aravamudan" [fillcolor="#38b289"]
+"nobuhiro iwamatsu" [fillcolor="#38b289"]
+"noel kothe" [fillcolor="#38b289"]
+"norihiko tomiyama" [fillcolor="#38b289"]
+"ogawa hirofumi" [fillcolor="#36b2ba"]
+"ohad ben-cohen" [fillcolor="#36b2ba"]
+"olaf hering" [fillcolor="#36b2ba"]
+"olaf kirch" [fillcolor="#36b2ba"]
+"oleg nesterov" [fillcolor="#36b2ba"]
+"oliver endriss" [fillcolor="#36b2ba"]
+"oliver hartkopp" [fillcolor="#36b2ba"]
+"oliver neukum" [fillcolor="#36b2ba"]
+"olivier galibert" [fillcolor="#36b2ba"]
+"olof johansson" [fillcolor="#36b2ba"]
+"ondrej zajicek" [fillcolor="#36b2ba"]
+"ondrej zary" [fillcolor="#36b2ba"]
+"pablo neira ayuso" [fillcolor="#36b2ba"]
+"paolo 'blaisorblade' giarrusso" [fillcolor="#36b2ba"]
+"parag warudkar" [fillcolor="#36b2ba"]
+"pat erley" [fillcolor="#36b2ba"]
+"patrick boettcher" [fillcolor="#36b2ba"]
+"patrick caulfield" [fillcolor="#36b2ba"]
+"patrick mchardy" [fillcolor="#36b2ba"]
+"patrick mcharrdy" [fillcolor="#36b2ba"]
+"paul e. mckenney" [fillcolor="#36b2ba"]
+"paul fulghum" [fillcolor="#36b2ba"]
+"paul jackson" [fillcolor="#36b2ba"]
+"paul mackerras" [fillcolor="#36b2ba"]
+"paul menage" [fillcolor="#36b2ba"]
+"paul moore" [fillcolor="#36b2ba"]
+"paul mundt" [fillcolor="#36b2ba"]
+"paul sokolovsky" [fillcolor="#36b2ba"]
+"paul walmsley" [fillcolor="#36b2ba"]
+"paul zaremba" [fillcolor="#36b2ba"]
+"paulo marques" [fillcolor="#36b2ba"]
+"pavel emelianov" [fillcolor="#36b2ba"]
+"pavel hofman" [fillcolor="#36b2ba"]
+"pavel machek" [fillcolor="#36b2ba"]
+"pavel pisa" [fillcolor="#36b2ba"]
+"pavel roskin" [fillcolor="#36b2ba"]
+"peer chen" [fillcolor="#36b2ba"]
+"pekka enberg" [fillcolor="#36b2ba"]
+"pekka j enberg" [fillcolor="#36b2ba"]
+"pete wyckoff" [fillcolor="#36b2ba"]
+"pete zaitcev" [fillcolor="#36b2ba"]
+"peter korsgaard" [fillcolor="#36b2ba"]
+"peter kovar" [fillcolor="#36b2ba"]
+"peter missel" [fillcolor="#36b2ba"]
+"peter oberparleiter" [fillcolor="#36b2ba"]
+"peter osterlund" [fillcolor="#36b2ba"]
+"peter p. waskiewicz jr." [fillcolor="#36b2ba"]
+"peter samuelson" [fillcolor="#36b2ba"]
+"peter staubach" [fillcolor="#36b2ba"]
+"peter stokes" [fillcolor="#36b2ba"]
+"peter stuge" [fillcolor="#36b2ba"]
+"peter tiedemann" [fillcolor="#36b2ba"]
+"peter zijlstra" [fillcolor="#36b2ba"]
+"petr vandrovec" [fillcolor="#36b2ba"]
+"phil dibowitz" [fillcolor="#36b2ba"]
+"philip langdale" [fillcolor="#36b2ba"]
+"philippe de muyter" [fillcolor="#36b2ba"]
+"pierre ossman" [fillcolor="#36b2ba"]
+"pierre peiffer" [fillcolor="#36b2ba"]
+"pierre willenbrock" [fillcolor="#36b2ba"]
+"prarit bhargava" [fillcolor="#36b2ba"]
+"pravin b. shelar" [fillcolor="#36b2ba"]
+"rafael j. wysocki" [fillcolor="#5c76b4"]
+"rafal bilski" [fillcolor="#5c76b4"]
+"rafał bilski" [fillcolor="#5c76b4"]
+"ragner magalhaes" [fillcolor="#5c76b4"]
+"ralf baechle" [fillcolor="#5c76b4"]
+"ralph campbell" [fillcolor="#5c76b4"]
+"ralph metzler" [fillcolor="#5c76b4"]
+"ramkrishna vepa" [fillcolor="#5c76b4"]
+"randy dunlap" [fillcolor="#5c76b4"]
+"raphael assenat" [fillcolor="#5c76b4"]
+"rask ingemann lambertsen" [fillcolor="#5c76b4"]
+"ratnadeep joshi" [fillcolor="#5c76b4"]
+"ravi anand" [fillcolor="#5c76b4"]
+"ravikiran g thirumalai" [fillcolor="#5c76b4"]
+"ray lee" [fillcolor="#5c76b4"]
+"remy bohmer" [fillcolor="#5c76b4"]
+"remy bruno" [fillcolor="#5c76b4"]
+"rene herman" [fillcolor="#5c76b4"]
+"ricardo cerqueira" [fillcolor="#5c76b4"]
+"richard henderson" [fillcolor="#5c76b4"]
+"richard kennedy" [fillcolor="#5c76b4"]
+"richard knutsson" [fillcolor="#5c76b4"]
+"richard lary" [fillcolor="#5c76b4"]
+"richard purdie" [fillcolor="#5c76b4"]
+"robert hancock" [fillcolor="#5c76b4"]
+"robert jennings" [fillcolor="#5c76b4"]
+"robert olsson" [fillcolor="#5c76b4"]
+"robert p. j. day" [fillcolor="#5c76b4"]
+"robert peterson" [fillcolor="#5c76b4"]
+"robert reif" [fillcolor="#5c76b4"]
+"robert walsh" [fillcolor="#5c76b4"]
+"robin getz" [fillcolor="#5c76b4"]
+"robin h. johnson" [fillcolor="#5c76b4"]
+"robin holt" [fillcolor="#5c76b4"]
+"rodolfo giometti" [fillcolor="#5c76b4"]
+"roland dreier" [fillcolor="#5c76b4"]
+"roland mcgrath" [fillcolor="#5c76b4"]
+"roland scheidegger" [fillcolor="#5c76b4"]
+"roland stigge" [fillcolor="#5c76b4"]
+"rolf eike beer" [fillcolor="#5c76b4"]
+"rolf manderscheid" [fillcolor="#5c76b4"]
+"roman moravcik" [fillcolor="#5c76b4"]
+"roman zippel" [fillcolor="#5c76b4"]
+"ron mercer" [fillcolor="#5c76b4"]
+"ronni nielsen" [fillcolor="#5c76b4"]
+"ronny peine" [fillcolor="#5c76b4"]
+"roy huang" [fillcolor="#5c76b4"]
+"roy zang" [fillcolor="#5c76b4"]
+"rudolf marek" [fillcolor="#5c76b4"]
+"ruslan  sushko" [fillcolor="#5c76b4"]
+"ruslan sushko" [fillcolor="#5c76b4"]
+"ruslan v. sushko" [fillcolor="#5c76b4"]
+"russell king" [fillcolor="#5c76b4"]
+"rusty russell" [fillcolor="#5c76b4"]
+"ryusuke sakato" [fillcolor="#5c76b4"]
+"s.caglar onur" [fillcolor="#5c76b4"]
+"sakari ailus" [fillcolor="#5c76b4"]
+"sam creasey" [fillcolor="#5c76b4"]
+"sam liddicott" [fillcolor="#5c76b4"]
+"sam ravnborg" [fillcolor="#5c76b4"]
+"sam revitch" [fillcolor="#5c76b4"]
+"sami farin" [fillcolor="#5c76b4"]
+"samuel ortiz" [fillcolor="#5c76b4"]
+"samuel thibault" [fillcolor="#5c76b4"]
+"sandeep patil" [fillcolor="#5c76b4"]
+"sandeep sanjay patil" [fillcolor="#5c76b4"]
+"sangtae ha" [fillcolor="#5c76b4"]
+"santiago leon" [fillcolor="#5c76b4"]
+"santosh rastapur" [fillcolor="#5c76b4"]
+"sascha hauer" [fillcolor="#5c76b4"]
+"satoru takeuchi" [fillcolor="#5c76b4"]
+"satyam sharma" [fillcolor="#5c76b4"]
+"scott alfter" [fillcolor="#5c76b4"]
+"scott murray" [fillcolor="#5c76b4"]
+"scott wiersdorf" [fillcolor="#5c76b4"]
+"scott wood" [fillcolor="#5c76b4"]
+"sean hefty" [fillcolor="#5c76b4"]
+"sebastian siewior" [fillcolor="#5c76b4"]
+"sebastien dugue" [fillcolor="#5c76b4"]
+"segher boessenkool" [fillcolor="#5c76b4"]
+"semih hazar" [fillcolor="#5c76b4"]
+"seokmann ju" [fillcolor="#5c76b4"]
+"serge hallyn" [fillcolor="#5c76b4"]
+"sergei shtylyov" [fillcolor="#5c76b4"]
+"sergey kiselev" [fillcolor="#5c76b4"]
+"sergey shtylyov" [fillcolor="#5c76b4"]
+"sergey vlasov" [fillcolor="#5c76b4"]
+"servaas vandenberghe" [fillcolor="#5c76b4"]
+"seth forshee" [fillcolor="#5c76b4"]
+"shaggy" [fillcolor="#5c76b4"]
+"shahrom sharif" [fillcolor="#5c76b4"]
+"shai fultheim" [fillcolor="#5c76b4"]
+"shan lu" [fillcolor="#5c76b4"]
+"shani moideen" [fillcolor="#5c76b4"]
+"shaohua li" [fillcolor="#5c76b4"]
+"shashi rao" [fillcolor="#5c76b4"]
+"simon arlott" [fillcolor="#5c76b4"]
+"simon budig" [fillcolor="#5c76b4"]
+"simon farnsworth" [fillcolor="#5c76b4"]
+"simon horman" [fillcolor="#5c76b4"]
+"simon richter" [fillcolor="#5c76b4"]
+"sonic zhang" [fillcolor="#5c76b4"]
+"sonny rao" [fillcolor="#5c76b4"]
+"sreenivasa honnur" [fillcolor="#5c76b4"]
+"sridhar samudrala" [fillcolor="#5c76b4"]
+"srinivas aji" [fillcolor="#5c76b4"]
+"srinivas eeda" [fillcolor="#5c76b4"]
+"srinivasa ds" [fillcolor="#5c76b4"]
+"srivatsa vaddagiri" [fillcolor="#5c76b4"]
+"stas sergeev" [fillcolor="#5c76b4"]
+"stefan bader" [fillcolor="#5c76b4"]
+"stefan haberland" [fillcolor="#5c76b4"]
+"stefan lucke" [fillcolor="#5c76b4"]
+"stefan richter" [fillcolor="#5c76b4"]
+"stefan roese" [fillcolor="#5c76b4"]
+"stefan roscher" [fillcolor="#5c76b4"]
+"stelian pop" [fillcolor="#5c76b4"]
+"stephane eranian" [fillcolor="#5c76b4"]
+"stephen cameron" [fillcolor="#5c76b4"]
+"stephen hemminger" [fillcolor="#5c76b4"]
+"stephen m. cameron" [fillcolor="#5c76b4"]
+"stephen mollett" [fillcolor="#5c76b4"]
+"stephen rothwell" [fillcolor="#5c76b4"]
+"stephen smalley" [fillcolor="#5c76b4"]
+"stephen winiecki" [fillcolor="#5c76b4"]
+"steve beattie" [fillcolor="#5c76b4"]
+"steve dickson" [fillcolor="#5c76b4"]
+"steve french" [fillcolor="#5c76b4"]
+"steve grubb" [fillcolor="#5c76b4"]
+"steve longerbeam" [fillcolor="#5c76b4"]
+"steve wise" [fillcolor="#5c76b4"]
+"steven rostedt" [fillcolor="#5c76b4"]
+"steven toth" [fillcolor="#5c76b4"]
+"steven whitehouse" [fillcolor="#5c76b4"]
+"stewart smith" [fillcolor="#5c76b4"]
+"stuart macdonald" [fillcolor="#5c76b4"]
+"stuart yoder" [fillcolor="#5c76b4"]
+"sugioka toshinobu" [fillcolor="#5c76b4"]
+"sukadev bhattiprolu" [fillcolor="#5c76b4"]
+"sumant patro" [fillcolor="#5c76b4"]
+"sunil mushran" [fillcolor="#5c76b4"]
+"suresh b siddha" [fillcolor="#5c76b4"]
+"suresh siddha" [fillcolor="#5c76b4"]
+"surya prabhakar" [fillcolor="#5c76b4"]
+"swen schillig" [fillcolor="#5c76b4"]
+"syed khasim" [fillcolor="#5c76b4"]
+"syed mohammed khasim" [fillcolor="#5c76b4"]
+"sylvain foret" [fillcolor="#5c76b4"]
+"sylvain munaut" [fillcolor="#5c76b4"]
+"takada" [fillcolor="#525298"]
+"takao shinohara" [fillcolor="#525298"]
+"takashi iwai" [fillcolor="#525298"]
+"takashi yoshii" [fillcolor="#525298"]
+"tejun heo" [fillcolor="#525298"]
+"tero roponen" [fillcolor="#525298"]
+"theodore ts'o" [fillcolor="#525298"]
+"thibaut varene" [fillcolor="#525298"]
+"thiemo seufer" [fillcolor="#525298"]
+"thierry merle" [fillcolor="#525298"]
+"thierry vignaud" [fillcolor="#525298"]
+"thomas a. morrison" [fillcolor="#525298"]
+"thomas bogendoerfer" [fillcolor="#525298"]
+"thomas gleixner" [fillcolor="#525298"]
+"thomas graf" [fillcolor="#525298"]
+"thomas hellstrom" [fillcolor="#525298"]
+"thomas kaiser" [fillcolor="#525298"]
+"thomas klein" [fillcolor="#525298"]
+"thomas knobloch" [fillcolor="#525298"]
+"thomas koeller" [fillcolor="#525298"]
+"thomas reitmayr" [fillcolor="#525298"]
+"thomas renninger" [fillcolor="#525298"]
+"tiger yang" [fillcolor="#525298"]
+"till harbaum" [fillcolor="#525298"]
+"tilman schmidt" [fillcolor="#525298"]
+"tim gardner" [fillcolor="#525298"]
+"tim hockin" [fillcolor="#525298"]
+"tim shimmin" [fillcolor="#525298"]
+"timothy shimmin" [fillcolor="#525298"]
+"timur tabi" [fillcolor="#525298"]
+"tobias klauser" [fillcolor="#525298"]
+"tobin davis" [fillcolor="#525298"]
+"tom alsberg" [fillcolor="#525298"]
+"tom morrison" [fillcolor="#525298"]
+"tom rini" [fillcolor="#525298"]
+"tom zanussi" [fillcolor="#525298"]
+"tony breeds" [fillcolor="#525298"]
+"tony jones" [fillcolor="#525298"]
+"tony lindgren" [fillcolor="#525298"]
+"tony luck" [fillcolor="#525298"]
+"tony vroon" [fillcolor="#525298"]
+"torsten kaiser" [fillcolor="#525298"]
+"trent piepho" [fillcolor="#525298"]
+"trond myklebust" [fillcolor="#525298"]
+"ulrich drepper" [fillcolor="#525298"]
+"ulrich kunitz" [fillcolor="#525298"]
+"urs fleisch" [fillcolor="#525298"]
+"urs thuermann" [fillcolor="#525298"]
+"ursula braun" [fillcolor="#525298"]
+"utako kusaka" [fillcolor="#525298"]
+"uwe bugla" [fillcolor="#525298"]
+"uwe kleine-kanig" [fillcolor="#525298"]
+"uwe koziolek" [fillcolor="#525298"]
+"uwe zeisberger" [fillcolor="#525298"]
+"valerie henson" [fillcolor="#785a9b"]
+"vasily averin" [fillcolor="#785a9b"]
+"vasily tarasov" [fillcolor="#785a9b"]
+"venkatesh pallipadi" [fillcolor="#785a9b"]
+"venki pallipadi" [fillcolor="#785a9b"]
+"vignesh babu bm" [fillcolor="#785a9b"]
+"vignesh babu" [fillcolor="#785a9b"]
+"vignesh" [fillcolor="#785a9b"]
+"ville syrjala" [fillcolor="#785a9b"]
+"ville tervo" [fillcolor="#785a9b"]
+"ville-pekka vainio" [fillcolor="#785a9b"]
+"vincent vanackere" [fillcolor="#785a9b"]
+"vitaly wool" [fillcolor="#785a9b"]
+"vivek goyal" [fillcolor="#785a9b"]
+"vlad apostolov" [fillcolor="#785a9b"]
+"vlad drukker" [fillcolor="#785a9b"]
+"vlad yasevich" [fillcolor="#785a9b"]
+"vladimir barinov" [fillcolor="#785a9b"]
+"vladimir lebedev" [fillcolor="#785a9b"]
+"walter harms" [fillcolor="#785a9b"]
+"wang cong" [fillcolor="#785a9b"]
+"wang zhenyu" [fillcolor="#785a9b"]
+"wei dong" [fillcolor="#785a9b"]
+"wei yongjun" [fillcolor="#785a9b"]
+"wendy xiong" [fillcolor="#785a9b"]
+"wilhelm meier" [fillcolor="#785a9b"]
+"will schmidt" [fillcolor="#785a9b"]
+"william cohen" [fillcolor="#785a9b"]
+"william lee irwin iii" [fillcolor="#785a9b"]
+"willy tarreau" [fillcolor="#785a9b"]
+"wim van sebroeck" [fillcolor="#785a9b"]
+"witold filipczyk" [fillcolor="#785a9b"]
+"wolke liu" [fillcolor="#785a9b"]
+"xianghua xiao" [fillcolor="#af6da4"]
+"yan burman" [fillcolor="#af6da4"]
+"yaozu dong" [fillcolor="#af6da4"]
+"yasunori goto" [fillcolor="#af6da4"]
+"yasuyuki kozakai" [fillcolor="#af6da4"]
+"yehuda sadeh weinraub" [fillcolor="#af6da4"]
+"yinghai lu" [fillcolor="#af6da4"]
+"yoann padioleau" [fillcolor="#af6da4"]
+"yoichi yuasa" [fillcolor="#af6da4"]
+"york sun" [fillcolor="#af6da4"]
+"yosef etigin" [fillcolor="#af6da4"]
+"yoshifuji hideaki" [fillcolor="#af6da4"]
+"yoshinori sato" [fillcolor="#af6da4"]
+"yuji sekiya" [fillcolor="#af6da4"]
+"zach carter" [fillcolor="#af6da4"]
+"zachary amsden" [fillcolor="#af6da4"]
+"zang roy-r61911" [fillcolor="#af6da4"]
+"zhang rui" [fillcolor="#af6da4"]
+"zhang wei" [fillcolor="#af6da4"]
+"zhu yi" [fillcolor="#af6da4"]
+"zoltan devai" [fillcolor="#af6da4"]
+"zou nan hai" [fillcolor="#af6da4"]
+"aapo tahkola" -- "mauro carvalho chehab";
+"aapo tahkola" -- "michael krufky";
+"aapo tahkola" -- "nick andrew";
+"aapo tahkola" -- "pierre willenbrock";
+"aaron durbin" -- "andrew morton";
+"abhijit bhopatkar" -- "takashi iwai";
+"adam jackson" -- "andrew morton";
+"adam jackson" -- "john feeney";
+"adam litke" -- "william lee irwin iii";
+"adrian bunk" -- "alexander e. patrakov";
+"adrian bunk" -- "alexey dobriyan";
+"adrian bunk" -- "andi kleen";
+"adrian bunk" -- "andrew morton";
+"adrian bunk" -- "artem bityutskiy";
+"adrian bunk" -- "avi kivity";
+"adrian bunk" -- "corey minyard";
+"adrian bunk" -- "dan malek";
+"adrian bunk" -- "dave airlie";
+"adrian bunk" -- "david s. miller";
+"adrian bunk" -- "david sterba";
+"adrian bunk" -- "david teigland";
+"adrian bunk" -- "david woodhouse";
+"adrian bunk" -- "eric moore";
+"adrian bunk" -- "greg kroah-hartman";
+"adrian bunk" -- "hannes reinecke";
+"adrian bunk" -- "hans verkuil";
+"adrian bunk" -- "henrique de moraes holschuh";
+"adrian bunk" -- "jan kara";
+"adrian bunk" -- "jean delvare";
+"adrian bunk" -- "jeff garzik";
+"adrian bunk" -- "jesper juhl";
+"adrian bunk" -- "joern engel";
+"adrian bunk" -- "john anthony kazos jr.";
+"adrian bunk" -- "karsten keil";
+"adrian bunk" -- "marton nameth";
+"adrian bunk" -- "matt laplante";
+"adrian bunk" -- "mauro carvalho chehab";
+"adrian bunk" -- "michael opdenacker";
+"adrian bunk" -- "miklos szeredi";
+"adrian bunk" -- "neil brown";
+"adrian bunk" -- "oliver endriss";
+"adrian bunk" -- "paul mackerras";
+"adrian bunk" -- "pierre ossman";
+"adrian bunk" -- "randy dunlap";
+"adrian bunk" -- "ravi anand";
+"adrian bunk" -- "robert p. j. day";
+"adrian bunk" -- "ronni nielsen";
+"adrian bunk" -- "simon arlott";
+"adrian bunk" -- "stefan richter";
+"adrian bunk" -- "stephen rothwell";
+"adrian bunk" -- "takashi iwai";
+"adrian bunk" -- "thomas gleixner";
+"adrian bunk" -- "uwe kleine-kanig";
+"adrian bunk" -- "wang cong";
+"adrian bunk" -- "william lee irwin iii";
+"adrian bunk" -- "wim van sebroeck";
+"adrian hunter" -- "artem bityutskiy";
+"adrian hunter" -- "kyungmin park";
+"ahmed s. darwish" -- "andi kleen";
+"ahmed s. darwish" -- "andrew morton";
+"ahmed s. darwish" -- "auke kok";
+"ahmed s. darwish" -- "neil brown";
+"akinobu mita" -- "andi kleen";
+"akinobu mita" -- "andrew morton";
+"akinobu mita" -- "arnd bergmann";
+"akinobu mita" -- "christoph hellwig";
+"akinobu mita" -- "john w. linville";
+"akinobu mita" -- "matt mackall";
+"akinobu mita" -- "mauro carvalho chehab";
+"akinobu mita" -- "patrick mchardy";
+"akinobu mita" -- "paul mackerras";
+"akinobu mita" -- "pekka enberg";
+"akinobu mita" -- "stefan richter";
+"akinobu mita" -- "stephen hemminger";
+"akinobu mita" -- "steve french";
+"akinobu mita" -- "takashi iwai";
+"akinobu mita" -- "william lee irwin iii";
+"al viro" -- "amy griffis";
+"al viro" -- "andrew morton";
+"al viro" -- "hirokazu takata";
+"al viro" -- "jeff dike";
+"al viro" -- "jeff garzik";
+"al viro" -- "ken chen";
+"al viro" -- "linus torvalds";
+"al viro" -- "steve grubb";
+"alan cox" -- "andrew morton";
+"alan cox" -- "antonino daplas";
+"alan cox" -- "bartlomiej zolnierkiewicz";
+"alan cox" -- "dave jones";
+"alan cox" -- "david woodhouse";
+"alan cox" -- "eric w. biederman";
+"alan cox" -- "fabrice aeschbacher";
+"alan cox" -- "jeff garzik";
+"alan cox" -- "jesper juhl";
+"alan cox" -- "linus torvalds";
+"alan cox" -- "mauro carvalho chehab";
+"alan cox" -- "milind arun choudhary";
+"alan cox" -- "paul fulghum";
+"alan cox" -- "paul mackerras";
+"alan hourihane" -- "antonino daplas";
+"alan stern" -- "andrew morton";
+"alan stern" -- "david brownell";
+"alan stern" -- "greg kroah-hartman";
+"alan stern" -- "james bottomley";
+"alan stern" -- "jens axboe";
+"alan stern" -- "jiri kosina";
+"alan stern" -- "karsten keil";
+"alan stern" -- "linus torvalds";
+"alan stern" -- "pete zaitcev";
+"alan stern" -- "randy dunlap";
+"alasdair g kergon" -- "andrew morton";
+"alasdair g kergon" -- "edward goggin";
+"alasdair g kergon" -- "heinz mauelshagen";
+"alasdair g kergon" -- "holger smolinski";
+"alasdair g kergon" -- "jonathan brassow";
+"alasdair g kergon" -- "jonathan e brassow";
+"alasdair g kergon" -- "ludwig nussel";
+"alasdair g kergon" -- "mike anderson";
+"alasdair g kergon" -- "milan broz";
+"alasdair g kergon" -- "olaf kirch";
+"albert lee" -- "jeff garzik";
+"alberto bertogli" -- "jeff dike";
+"alessandro zummo" -- "andrew morton";
+"alessandro zummo" -- "david brownell";
+"alessandro zummo" -- "jean delvare";
+"alessandro zummo" -- "michael westerhof";
+"alessandro zummo" -- "michael-luke jones";
+"alessandro zummo" -- "yoichi yuasa";
+"alex dubov" -- "pierre ossman";
+"alex landau" -- "andrew morton";
+"alex tomas" -- "mingming cao";
+"alex villacis lasso" -- "samuel ortiz";
+"alex williamson" -- "marcel selhorst";
+"alexander bokovoy" -- "steve french";
+"alexander e. patrakov" -- "sam ravnborg";
+"alexandr andreev" -- "alexey dobriyan";
+"alexandra n. kossovsky" -- "jay vosburgh";
+"alexey dobriyan" -- "alexey kuznetsov";
+"alexey dobriyan" -- "andrew morton";
+"alexey dobriyan" -- "darrick j. wong";
+"alexey dobriyan" -- "dave jones";
+"alexey dobriyan" -- "david s. miller";
+"alexey dobriyan" -- "geoff levand";
+"alexey dobriyan" -- "ingo molnar";
+"alexey dobriyan" -- "jean delvare";
+"alexey dobriyan" -- "jeff garzik";
+"alexey dobriyan" -- "kyle mcmartin";
+"alexey dobriyan" -- "linus torvalds";
+"alexey dobriyan" -- "mauro carvalho chehab";
+"alexey dobriyan" -- "miklos szeredi";
+"alexey dobriyan" -- "rusty russell";
+"alexey dobriyan" -- "tony luck";
+"alexey dobriyan" -- "walter harms";
+"alexey dobriyan" -- "wim van sebroeck";
+"alexey kuznetsov" -- "kirill korotaev";
+"alexey kuznetsov" -- "thomas gleixner";
+"alexey kuznetsov" -- "tony luck";
+"alexey starikovskiy" -- "len brown";
+"alexey starikovskiy" -- "lennart poettering";
+"ali ayoub" -- "michael s. tsirkin";
+"alistair john strachan" -- "randy dunlap";
+"allan stephens" -- "jon paul maloy";
+"amit arora" -- "theodore ts'o";
+"amit choudhary" -- "andrew morton";
+"amit choudhary" -- "mauro carvalho chehab";
+"amnon aaronsohn" -- "andrew morton";
+"amol lad" -- "andrew morton";
+"ananth n mavinakayanahalli" -- "andrew morton";
+"ananth n mavinakayanahalli" -- "christoph hellwig";
+"ananth n mavinakayanahalli" -- "jim keniston";
+"ananth n mavinakayanahalli" -- "paul mackerras";
+"ananth n mavinakayanahalli" -- "randy dunlap";
+"ananth n mavinakayanahalli" -- "srinivasa ds";
+"andi kleen" -- "andrew hastings";
+"andi kleen" -- "andrew morton";
+"andi kleen" -- "aneesh kumar k.v";
+"andi kleen" -- "anil s keshavamurthy";
+"andi kleen" -- "avi kivity";
+"andi kleen" -- "bernhard kaindl";
+"andi kleen" -- "bernhard walle";
+"andi kleen" -- "brian gerst";
+"andi kleen" -- "chris wright";
+"andi kleen" -- "christian volkmann";
+"andi kleen" -- "christoph lameter";
+"andi kleen" -- "daniel walker";
+"andi kleen" -- "david p. reed";
+"andi kleen" -- "david rientjes";
+"andi kleen" -- "david s. miller";
+"andi kleen" -- "eric dumazet";
+"andi kleen" -- "eric w. biederman";
+"andi kleen" -- "fernando luis vazquez cao";
+"andi kleen" -- "glauber de oliveira costa";
+"andi kleen" -- "h. peter anvin";
+"andi kleen" -- "heiko carstens";
+"andi kleen" -- "hisashi hifumi";
+"andi kleen" -- "ian campbell";
+"andi kleen" -- "ingo molnar";
+"andi kleen" -- "jan beulich";
+"andi kleen" -- "jan engelhardt";
+"andi kleen" -- "jan kiszka";
+"andi kleen" -- "jeff dike";
+"andi kleen" -- "jeremy fitzhardinge";
+"andi kleen" -- "joachim deguara";
+"andi kleen" -- "john stultz";
+"andi kleen" -- "konrad rzeszutek";
+"andi kleen" -- "lasse collin";
+"andi kleen" -- "linus torvalds";
+"andi kleen" -- "mark langsdorf";
+"andi kleen" -- "martin murray";
+"andi kleen" -- "matt domsch";
+"andi kleen" -- "olivier galibert";
+"andi kleen" -- "prarit bhargava";
+"andi kleen" -- "ralf baechle";
+"andi kleen" -- "randy dunlap";
+"andi kleen" -- "roman zippel";
+"andi kleen" -- "rusty russell";
+"andi kleen" -- "satoru takeuchi";
+"andi kleen" -- "sebastien dugue";
+"andi kleen" -- "shai fultheim";
+"andi kleen" -- "simon arlott";
+"andi kleen" -- "stephane eranian";
+"andi kleen" -- "stephen hemminger";
+"andi kleen" -- "suresh siddha";
+"andi kleen" -- "thierry vignaud";
+"andi kleen" -- "thomas renninger";
+"andi kleen" -- "tim gardner";
+"andi kleen" -- "tim hockin";
+"andi kleen" -- "vivek goyal";
+"andi kleen" -- "william lee irwin iii";
+"andi kleen" -- "yinghai lu";
+"andi kleen" -- "zachary amsden";
+"andre renaud" -- "thomas gleixner";
+"andrea arcangeli" -- "takashi iwai";
+"andrea paterniani" -- "andrew morton";
+"andrea paterniani" -- "david brownell";
+"andrea righi" -- "andrew morton";
+"andreas dilger" -- "sam ravnborg";
+"andreas gruenbacher" -- "stephen smalley";
+"andreas gruenbacher" -- "steve beattie";
+"andreas gruenbacher" -- "tony jones";
+"andreas mohr" -- "takashi iwai";
+"andreas oberritter" -- "holger magnussen";
+"andreas oberritter" -- "mauro carvalho chehab";
+"andreas schwab" -- "andrew morton";
+"andrei konovalov" -- "antonino daplas";
+"andres salomon" -- "andrew morton";
+"andres salomon" -- "dann frazier";
+"andres salomon" -- "dmitry torokhov";
+"andrew hendry" -- "linus torvalds";
+"andrew morton" -- "andrew victor";
+"andrew morton" -- "andy gospodarek";
+"andrew morton" -- "andy whitcroft";
+"andrew morton" -- "anil s keshavamurthy";
+"andrew morton" -- "anton altaparmakov";
+"andrew morton" -- "antonino a. daplas";
+"andrew morton" -- "antonino daplas";
+"andrew morton" -- "armin schindler";
+"andrew morton" -- "arnaldo carvalho de melo";
+"andrew morton" -- "arnd bergmann";
+"andrew morton" -- "atsushi nemoto";
+"andrew morton" -- "auke kok";
+"andrew morton" -- "badari pulavarty";
+"andrew morton" -- "balbir singh";
+"andrew morton" -- "bart oldeman";
+"andrew morton" -- "bart van assche";
+"andrew morton" -- "bartlomiej zolnierkiewicz";
+"andrew morton" -- "ben collins";
+"andrew morton" -- "ben dooks";
+"andrew morton" -- "ben gardner";
+"andrew morton" -- "benjamin herrenschmidt";
+"andrew morton" -- "benjamin lahaise";
+"andrew morton" -- "bernhard kaindl";
+"andrew morton" -- "bernhard walle";
+"andrew morton" -- "bert wesarg";
+"andrew morton" -- "bjorn helgaas";
+"andrew morton" -- "bjorn steinbrink";
+"andrew morton" -- "bob picco";
+"andrew morton" -- "borislav petkov";
+"andrew morton" -- "brian braunstein";
+"andrew morton" -- "bryan wu";
+"andrew morton" -- "cedric le goater";
+"andrew morton" -- "chase maupin";
+"andrew morton" -- "chris wright";
+"andrew morton" -- "chris zankel";
+"andrew morton" -- "christoph hellwig";
+"andrew morton" -- "christoph laemter";
+"andrew morton" -- "christoph lameter";
+"andrew morton" -- "corey minyard";
+"andrew morton" -- "cornelia huck";
+"andrew morton" -- "cyrill gorcunov";
+"andrew morton" -- "dale farnsworth";
+"andrew morton" -- "damian minkov";
+"andrew morton" -- "dan aloni";
+"andrew morton" -- "dan williams";
+"andrew morton" -- "daniel walker";
+"andrew morton" -- "dave airlie";
+"andrew morton" -- "dave jones";
+"andrew morton" -- "dave kleikamp";
+"andrew morton" -- "david brownell";
+"andrew morton" -- "david chinner";
+"andrew morton" -- "david gibson";
+"andrew morton" -- "david howells";
+"andrew morton" -- "david rientjes";
+"andrew morton" -- "david s. miller";
+"andrew morton" -- "david woodhouse";
+"andrew morton" -- "davide libenzi";
+"andrew morton" -- "denver gingerich";
+"andrew morton" -- "dmitriy monakhov";
+"andrew morton" -- "dmitry adamushko";
+"andrew morton" -- "dmitry torokhov";
+"andrew morton" -- "domenico andreoli";
+"andrew morton" -- "duncan sands";
+"andrew morton" -- "egmont koblinger";
+"andrew morton" -- "eric dumazet";
+"andrew morton" -- "eric moore";
+"andrew morton" -- "eric piel";
+"andrew morton" -- "eric sesterhenn";
+"andrew morton" -- "eric w. biederman";
+"andrew morton" -- "evgeniy polyakov";
+"andrew morton" -- "fengguang wu";
+"andrew morton" -- "fernando luis vazquez cao";
+"andrew morton" -- "folkert van heusden";
+"andrew morton" -- "gautham r shenoy";
+"andrew morton" -- "geert uytterhoeven";
+"andrew morton" -- "geoff levand";
+"andrew morton" -- "giuliano pochini";
+"andrew morton" -- "grant grundler";
+"andrew morton" -- "greg kroah-hartman";
+"andrew morton" -- "guillaume chazarain";
+"andrew morton" -- "guy streeter";
+"andrew morton" -- "h. peter anvin";
+"andrew morton" -- "haavard skinnemoen";
+"andrew morton" -- "hannes reinecke";
+"andrew morton" -- "hans verkuil";
+"andrew morton" -- "hansjoerg lipp";
+"andrew morton" -- "hartmut hackmann";
+"andrew morton" -- "heikki orsila";
+"andrew morton" -- "heiko carstens";
+"andrew morton" -- "henrik kretzschmar";
+"andrew morton" -- "henry su";
+"andrew morton" -- "herbert xu";
+"andrew morton" -- "hitoshi yamamoto";
+"andrew morton" -- "horst h. von brand";
+"andrew morton" -- "hugh dickins";
+"andrew morton" -- "ian molton";
+"andrew morton" -- "ingo molnar";
+"andrew morton" -- "ivan kokshaysky";
+"andrew morton" -- "ivo van doorn";
+"andrew morton" -- "j. bruce fields";
+"andrew morton" -- "james bottomley";
+"andrew morton" -- "james morris";
+"andrew morton" -- "james puthukattukaran";
+"andrew morton" -- "james simmons";
+"andrew morton" -- "jan altenberg";
+"andrew morton" -- "jan engelhardt";
+"andrew morton" -- "jan kara";
+"andrew morton" -- "jarek poplawski";
+"andrew morton" -- "jaroslav kysela";
+"andrew morton" -- "jason gaston";
+"andrew morton" -- "jay estabrook";
+"andrew morton" -- "jay vosburgh";
+"andrew morton" -- "jean delvare";
+"andrew morton" -- "jean tourrilhes";
+"andrew morton" -- "jeff dike";
+"andrew morton" -- "jeff garzik";
+"andrew morton" -- "jeff layton";
+"andrew morton" -- "jeff mahoney";
+"andrew morton" -- "jens axboe";
+"andrew morton" -- "jeremy fitzhardinge";
+"andrew morton" -- "jesper juhl";
+"andrew morton" -- "jie zhang";
+"andrew morton" -- "jim keniston";
+"andrew morton" -- "jiri slaby";
+"andrew morton" -- "joel schopp";
+"andrew morton" -- "joerg roedel";
+"andrew morton" -- "joern engel";
+"andrew morton" -- "johan henriksson";
+"andrew morton" -- "johannes berg";
+"andrew morton" -- "john keller";
+"andrew morton" -- "john stultz";
+"andrew morton" -- "john w. linville";
+"andrew morton" -- "josh boyer";
+"andrew morton" -- "josh triplett";
+"andrew morton" -- "joshua n. pritikin";
+"andrew morton" -- "kalash nainwal";
+"andrew morton" -- "karsten keil";
+"andrew morton" -- "kees cook";
+"andrew morton" -- "ken chen";
+"andrew morton" -- "kenji kaneshige";
+"andrew morton" -- "kirill korotaev";
+"andrew morton" -- "klaus kudielka";
+"andrew morton" -- "kogiidena";
+"andrew morton" -- "konstantin sharlaimov";
+"andrew morton" -- "kristen carlson accardi";
+"andrew morton" -- "kristian hoegsberg";
+"andrew morton" -- "kumar gala";
+"andrew morton" -- "kyle mcmartin";
+"andrew morton" -- "len brown";
+"andrew morton" -- "len sorensen";
+"andrew morton" -- "leon leong";
+"andrew morton" -- "li yang";
+"andrew morton" -- "linus torvalds";
+"andrew morton" -- "luis r. rodriguez";
+"andrew morton" -- "luugi marsan";
+"andrew morton" -- "maciej w. rozycki";
+"andrew morton" -- "marc pignat";
+"andrew morton" -- "marc st-jean";
+"andrew morton" -- "marcel holtmann";
+"andrew morton" -- "marcel selhorst";
+"andrew morton" -- "mark a. greer";
+"andrew morton" -- "mark fasheh";
+"andrew morton" -- "mark lord";
+"andrew morton" -- "mark mason";
+"andrew morton" -- "mark salyzyn";
+"andrew morton" -- "markus rechberger";
+"andrew morton" -- "martin peschke";
+"andrew morton" -- "martin schwidefsky";
+"andrew morton" -- "mathieu desnoyers";
+"andrew morton" -- "matt domsch";
+"andrew morton" -- "matt mackall";
+"andrew morton" -- "matt reimer";
+"andrew morton" -- "matthias goebl";
+"andrew morton" -- "matthias kaehlcke";
+"andrew morton" -- "matthieu castet";
+"andrew morton" -- "mauro carvalho chehab";
+"andrew morton" -- "maxim levitsky";
+"andrew morton" -- "michael buesch";
+"andrew morton" -- "michael ellerman";
+"andrew morton" -- "michael halcrow";
+"andrew morton" -- "michael hanselmann";
+"andrew morton" -- "michal januszewski";
+"andrew morton" -- "michal piotrowski";
+"andrew morton" -- "michal schmidt";
+"andrew morton" -- "miguel ojeda sandonis";
+"andrew morton" -- "mika kukkonen";
+"andrew morton" -- "mikael starvik";
+"andrew morton" -- "mike frysinger";
+"andrew morton" -- "miklos szeredi";
+"andrew morton" -- "milan kocian";
+"andrew morton" -- "milind arun choudhary";
+"andrew morton" -- "monakhov dmitriy";
+"andrew morton" -- "morten banzon";
+"andrew morton" -- "nate diller";
+"andrew morton" -- "neil brown";
+"andrew morton" -- "nick piggin";
+"andrew morton" -- "nicolas boichat";
+"andrew morton" -- "nishanth aravamudan";
+"andrew morton" -- "nobuhiro iwamatsu";
+"andrew morton" -- "ogawa hirofumi";
+"andrew morton" -- "olaf hering";
+"andrew morton" -- "oleg nesterov";
+"andrew morton" -- "oliver neukum";
+"andrew morton" -- "paolo 'blaisorblade' giarrusso";
+"andrew morton" -- "parag warudkar";
+"andrew morton" -- "paul e. mckenney";
+"andrew morton" -- "paul fulghum";
+"andrew morton" -- "paul jackson";
+"andrew morton" -- "paul mackerras";
+"andrew morton" -- "paul menage";
+"andrew morton" -- "paul mundt";
+"andrew morton" -- "pavel emelianov";
+"andrew morton" -- "pavel machek";
+"andrew morton" -- "peer chen";
+"andrew morton" -- "pekka enberg";
+"andrew morton" -- "pekka j enberg";
+"andrew morton" -- "peter kovar";
+"andrew morton" -- "peter stuge";
+"andrew morton" -- "peter zijlstra";
+"andrew morton" -- "philippe de muyter";
+"andrew morton" -- "pierre ossman";
+"andrew morton" -- "pierre peiffer";
+"andrew morton" -- "prarit bhargava";
+"andrew morton" -- "rafael j. wysocki";
+"andrew morton" -- "ralf baechle";
+"andrew morton" -- "randy dunlap";
+"andrew morton" -- "ratnadeep joshi";
+"andrew morton" -- "ravi anand";
+"andrew morton" -- "ray lee";
+"andrew morton" -- "rene herman";
+"andrew morton" -- "richard knutsson";
+"andrew morton" -- "richard purdie";
+"andrew morton" -- "robert hancock";
+"andrew morton" -- "robert p. j. day";
+"andrew morton" -- "rodolfo giometti";
+"andrew morton" -- "roland dreier";
+"andrew morton" -- "roland mcgrath";
+"andrew morton" -- "roman zippel";
+"andrew morton" -- "russell king";
+"andrew morton" -- "rusty russell";
+"andrew morton" -- "s.caglar onur";
+"andrew morton" -- "sam ravnborg";
+"andrew morton" -- "samuel ortiz";
+"andrew morton" -- "satoru takeuchi";
+"andrew morton" -- "scott wiersdorf";
+"andrew morton" -- "sebastien dugue";
+"andrew morton" -- "shai fultheim";
+"andrew morton" -- "shan lu";
+"andrew morton" -- "simon arlott";
+"andrew morton" -- "simon horman";
+"andrew morton" -- "srivatsa vaddagiri";
+"andrew morton" -- "stefan richter";
+"andrew morton" -- "stephen m. cameron";
+"andrew morton" -- "stephen mollett";
+"andrew morton" -- "stephen rothwell";
+"andrew morton" -- "stephen smalley";
+"andrew morton" -- "steven whitehouse";
+"andrew morton" -- "stuart macdonald";
+"andrew morton" -- "sukadev bhattiprolu";
+"andrew morton" -- "suresh siddha";
+"andrew morton" -- "surya prabhakar";
+"andrew morton" -- "takada";
+"andrew morton" -- "takashi iwai";
+"andrew morton" -- "tejun heo";
+"andrew morton" -- "thomas a. morrison";
+"andrew morton" -- "thomas gleixner";
+"andrew morton" -- "thomas koeller";
+"andrew morton" -- "timur tabi";
+"andrew morton" -- "tom alsberg";
+"andrew morton" -- "tom zanussi";
+"andrew morton" -- "tony luck";
+"andrew morton" -- "torsten kaiser";
+"andrew morton" -- "trent piepho";
+"andrew morton" -- "trond myklebust";
+"andrew morton" -- "ulrich drepper";
+"andrew morton" -- "valerie henson";
+"andrew morton" -- "venkatesh pallipadi";
+"andrew morton" -- "vignesh babu";
+"andrew morton" -- "vivek goyal";
+"andrew morton" -- "wang cong";
+"andrew morton" -- "wendy xiong";
+"andrew morton" -- "william cohen";
+"andrew morton" -- "william lee irwin iii";
+"andrew morton" -- "wim van sebroeck";
+"andrew morton" -- "witold filipczyk";
+"andrew morton" -- "yasunori goto";
+"andrew morton" -- "yinghai lu";
+"andrew morton" -- "yoann padioleau";
+"andrew morton" -- "yoshinori sato";
+"andrew morton" -- "zach carter";
+"andrew morton" -- "zachary amsden";
+"andrew morton" -- "zhang rui";
+"andrew vasquez" -- "bernhard walle";
+"andrew vasquez" -- "david s. miller";
+"andrew vasquez" -- "james bottomley";
+"andrew vasquez" -- "seokmann ju";
+"andrew victor" -- "frank mandarino";
+"andrew victor" -- "haavard skinnemoen";
+"andrew victor" -- "jeff garzik";
+"andrew victor" -- "lars reemts";
+"andrew victor" -- "nicolas ferre";
+"andrew victor" -- "remy bohmer";
+"andrew victor" -- "russell king";
+"andrew victor" -- "wim van sebroeck";
+"andrey borzenkov" -- "david brownell";
+"andy fleming" -- "jon loeliger";
+"andy fleming" -- "kumar gala";
+"andy fleming" -- "york sun";
+"andy gospodarek" -- "jeff garzik";
+"andy gospodarek" -- "mithlesh thukral";
+"andy green" -- "sam ravnborg";
+"andy whitcroft" -- "bob picco";
+"andy whitcroft" -- "joel schopp";
+"andy whitcroft" -- "mel gorman";
+"angelo p. castellani" -- "david s. miller";
+"anthony liguori" -- "avi kivity";
+"antoine jacquet" -- "mauro carvalho chehab";
+"antoine jacquet" -- "trent piepho";
+"anton altaparmakov" -- "david chinner";
+"anton altaparmakov" -- "linus torvalds";
+"anton altaparmakov" -- "monakhov dmitriy";
+"anton altaparmakov" -- "nate diller";
+"anton blanchard" -- "james smart";
+"anton blanchard" -- "olof johansson";
+"anton blanchard" -- "paul mackerras";
+"anton blanchard" -- "sam ravnborg";
+"antonino a. daplas" -- "antonino daplas";
+"antonino a. daplas" -- "jan engelhardt";
+"antonino a. daplas" -- "krzysztof helt";
+"antonino daplas" -- "avuton olrich";
+"antonino daplas" -- "dave airlie";
+"antonino daplas" -- "dave jones";
+"antonino daplas" -- "david s. miller";
+"antonino daplas" -- "geert uytterhoeven";
+"antonino daplas" -- "jan engelhardt";
+"antonino daplas" -- "jaya kumar";
+"antonino daplas" -- "jean delvare";
+"antonino daplas" -- "krzysztof helt";
+"antonino daplas" -- "krzysztof.helt";
+"antonino daplas" -- "linus torvalds";
+"antonino daplas" -- "nicolas ferre";
+"antonino daplas" -- "ondrej zajicek";
+"antonino daplas" -- "paul mundt";
+"antonino daplas" -- "petr vandrovec";
+"antonino daplas" -- "richard purdie";
+"antonino daplas" -- "roland stigge";
+"antonino daplas" -- "sascha hauer";
+"antonino daplas" -- "tero roponen";
+"antonino daplas" -- "ville syrjala";
+"arjan van de ven" -- "auke kok";
+"armin schindler" -- "karsten keil";
+"armin schindler" -- "randy dunlap";
+"arnaldo carvalho de melo" -- "chris wright";
+"arnaldo carvalho de melo" -- "david s. miller";
+"arnaldo carvalho de melo" -- "gerrit renker";
+"arnaldo carvalho de melo" -- "ian mcdonald";
+"arnaldo carvalho de melo" -- "patrick mchardy";
+"arnaud patard" -- "ben dooks";
+"arnaud patard" -- "david brownell";
+"arnaud patard" -- "jean delvare";
+"arnaud patard" -- "russell king";
+"arnaud patard" -- "tony lindgren";
+"arnd bergmann" -- "benjamin herrenschmidt";
+"arnd bergmann" -- "christian krafft";
+"arnd bergmann" -- "christoph hellwig";
+"arnd bergmann" -- "dale farnsworth";
+"arnd bergmann" -- "david s. miller";
+"arnd bergmann" -- "david woodhouse";
+"arnd bergmann" -- "geert uytterhoeven";
+"arnd bergmann" -- "geoff levand";
+"arnd bergmann" -- "heiko j schick";
+"arnd bergmann" -- "jens osterkamp";
+"arnd bergmann" -- "jeremy kerr";
+"arnd bergmann" -- "linus torvalds";
+"arnd bergmann" -- "olof johansson";
+"arnd bergmann" -- "paul fulghum";
+"arnd bergmann" -- "paul mackerras";
+"arnd bergmann" -- "sebastian siewior";
+"arnd bergmann" -- "simon horman";
+"artem bityutskiy" -- "david woodhouse";
+"artem bityutskiy" -- "frank haverkamp";
+"arthur jones" -- "bryan o'sullivan";
+"arthur jones" -- "roland dreier";
+"ate wijma" -- "wim van sebroeck";
+"atsushi nemoto" -- "jeff garzik";
+"atsushi nemoto" -- "ralf baechle";
+"atsushi nemoto" -- "sam ravnborg";
+"aubrey li" -- "bryan wu";
+"aubrey li" -- "jie zhang";
+"aubrey li" -- "mariusz kozlowski";
+"auke kok" -- "bruce allan";
+"auke kok" -- "herbert xu";
+"auke kok" -- "jeff garzik";
+"auke kok" -- "jesse brandeburg";
+"auke kok" -- "linus torvalds";
+"auke kok" -- "mark huth";
+"auke kok" -- "milind arun choudhary";
+"auke kok" -- "yan burman";
+"aurelien jarno" -- "jean delvare";
+"aurelien jarno" -- "kyle mcmartin";
+"avi kivity" -- "dor laor";
+"avi kivity" -- "eric sesterhenn";
+"avi kivity" -- "joerg roedel";
+"avi kivity" -- "michal piotrowski";
+"avi kivity" -- "sergey kiselev";
+"avi kivity" -- "yaozu dong";
+"ayaz abdulla" -- "jeff garzik";
+"badari pulavarty" -- "serge hallyn";
+"balbir singh" -- "david woodhouse";
+"balbir singh" -- "randy dunlap";
+"bart de schuymer" -- "carl-daniel hailfinger";
+"bart de schuymer" -- "michael milner";
+"bart de schuymer" -- "patrick mchardy";
+"bart oldeman" -- "ogawa hirofumi";
+"bartlomiej zolnierkiewicz" -- "jens axboe";
+"bartlomiej zolnierkiewicz" -- "jiri slaby";
+"bartlomiej zolnierkiewicz" -- "junio c hamano";
+"bartlomiej zolnierkiewicz" -- "lee trager";
+"bartlomiej zolnierkiewicz" -- "luugi marsan";
+"bartlomiej zolnierkiewicz" -- "mika kukkonen";
+"bartlomiej zolnierkiewicz" -- "peer chen";
+"bartlomiej zolnierkiewicz" -- "sergei shtylyov";
+"baruch even" -- "stephen hemminger";
+"baruch even" -- "takashi iwai";
+"bastian blank" -- "fujita tomonori";
+"becky bruce" -- "kumar gala";
+"ben collins" -- "greg kroah-hartman";
+"ben collins" -- "phil dibowitz";
+"ben dooks" -- "graeme gregory";
+"ben dooks" -- "jean delvare";
+"ben dooks" -- "jeff garzik";
+"ben dooks" -- "robert p. j. day";
+"ben dooks" -- "russell king";
+"ben dooks" -- "sandeep patil";
+"ben dooks" -- "wim van sebroeck";
+"benjamin e. marzinski" -- "benjamin marzinski";
+"benjamin e. marzinski" -- "steven whitehouse";
+"benjamin herrenschmidt" -- "christoph lameter";
+"benjamin herrenschmidt" -- "david gibson";
+"benjamin herrenschmidt" -- "davide libenzi";
+"benjamin herrenschmidt" -- "geoff levand";
+"benjamin herrenschmidt" -- "hugh dickins";
+"benjamin herrenschmidt" -- "johannes berg";
+"benjamin herrenschmidt" -- "luke browning";
+"benjamin herrenschmidt" -- "mark a. greer";
+"benjamin herrenschmidt" -- "michael ellerman";
+"benjamin herrenschmidt" -- "mokuno masakazu";
+"benjamin herrenschmidt" -- "olof johansson";
+"benjamin herrenschmidt" -- "paul mackerras";
+"benjamin herrenschmidt" -- "russell king";
+"benjamin herrenschmidt" -- "rusty russell";
+"benjamin herrenschmidt" -- "stephen rothwell";
+"benjamin herrenschmidt" -- "william lee irwin iii";
+"benjamin lahaise" -- "yasunori goto";
+"benjamin li" -- "jeff garzik";
+"benjamin li" -- "ron mercer";
+"bernd schmidt" -- "bryan wu";
+"bernhard kauer" -- "stefan richter";
+"bhavana nagendra" -- "dave jones";
+"bhavana nagendra" -- "mark langsdorf";
+"bill gatliff" -- "russell king";
+"bill nottingham" -- "david s. miller";
+"bill nottingham" -- "seokmann ju";
+"bjorn helgaas" -- "samuel ortiz";
+"bjorn helgaas" -- "tony luck";
+"bjorn steinbrink" -- "ian kumlien";
+"bjorn steinbrink" -- "john w. linville";
+"bob moore" -- "len brown";
+"bob peterson" -- "robert peterson";
+"bob peterson" -- "steven whitehouse";
+"bob picco" -- "mel gorman";
+"borislav petkov" -- "david s. miller";
+"borislav petkov" -- "randy dunlap";
+"brandon craig rhodes" -- "jouni malinen";
+"brian king" -- "james bottomley";
+"brian king" -- "jeff garzik";
+"brian king" -- "linas vepstas";
+"brice goglin" -- "jeff garzik";
+"bruce schmid" -- "david brownell";
+"bruce schmid" -- "jiang bo";
+"bryan o'sullivan" -- "dave olson";
+"bryan o'sullivan" -- "mark debbage";
+"bryan o'sullivan" -- "michael albaugh";
+"bryan o'sullivan" -- "ralph campbell";
+"bryan o'sullivan" -- "robert walsh";
+"bryan o'sullivan" -- "roland dreier";
+"bryan wu" -- "christoph hellwig";
+"bryan wu" -- "jean-christian de rivaz";
+"bryan wu" -- "jeff garzik";
+"bryan wu" -- "linus torvalds";
+"bryan wu" -- "mariusz kozlowski";
+"bryan wu" -- "michael hennerich";
+"bryan wu" -- "mike frysinger";
+"bryan wu" -- "robin getz";
+"bryan wu" -- "roy huang";
+"bryan wu" -- "simon arlott";
+"bryan wu" -- "sonic zhang";
+"bryn reeves" -- "heinz mauelshagen";
+"bryn reeves" -- "milan broz";
+"carl-daniel hailfinger" -- "patrick mchardy";
+"carlos eduardo aguiar" -- "pierre ossman";
+"carlos eduardo aguiar" -- "ragner magalhaes";
+"catalin marinas" -- "russell king";
+"cedric le goater" -- "serge hallyn";
+"charles pillar" -- "jiri kosina";
+"chase maupin" -- "mike miller";
+"chris ball" -- "john w. linville";
+"chris clayton" -- "jiri kosina";
+"chris dearman" -- "ralf baechle";
+"chris kennedy" -- "john p harvey";
+"chris kennedy" -- "kevin thayer";
+"chris lalancette" -- "jeremy fitzhardinge";
+"chris lalancette" -- "prarit bhargava";
+"chris snook" -- "david howells";
+"chris wright" -- "christian limpach";
+"chris wright" -- "ingo molnar";
+"chris wright" -- "jeremy fitzhardinge";
+"chris zankel" -- "simon arlott";
+"chris zankel" -- "stephen rothwell";
+"christian engelmayer" -- "greg kroah-hartman";
+"christian krafft" -- "corey minyard";
+"christian krafft" -- "heiko j schick";
+"christian krafft" -- "olof johansson";
+"christian krafft" -- "paul mackerras";
+"christian krafft" -- "thomas renninger";
+"christian limpach" -- "ian pratt";
+"christian rothlaender" -- "takashi iwai";
+"christof schmitt" -- "heiko carstens";
+"christof schmitt" -- "swen schillig";
+"christoph hellwig" -- "david s. miller";
+"christoph hellwig" -- "david woodhouse";
+"christoph hellwig" -- "dmitriy monakhov";
+"christoph hellwig" -- "eric dumazet";
+"christoph hellwig" -- "geert uytterhoeven";
+"christoph hellwig" -- "haavard skinnemoen";
+"christoph hellwig" -- "ingo molnar";
+"christoph hellwig" -- "james bottomley";
+"christoph hellwig" -- "jan kara";
+"christoph hellwig" -- "jeff garzik";
+"christoph hellwig" -- "jeremy kerr";
+"christoph hellwig" -- "josef 'jeff' sipek";
+"christoph hellwig" -- "linas vepstas";
+"christoph hellwig" -- "linus torvalds";
+"christoph hellwig" -- "luke browning";
+"christoph hellwig" -- "mark fasheh";
+"christoph hellwig" -- "martin schwidefsky";
+"christoph hellwig" -- "mike frysinger";
+"christoph hellwig" -- "miklos szeredi";
+"christoph hellwig" -- "neil brown";
+"christoph hellwig" -- "paul mackerras";
+"christoph hellwig" -- "paul mundt";
+"christoph hellwig" -- "stephen rothwell";
+"christoph hellwig" -- "steve french";
+"christoph hellwig" -- "tim shimmin";
+"christoph hellwig" -- "tony luck";
+"christoph hellwig" -- "trond myklebust";
+"christoph laemter" -- "christoph lameter";
+"christoph lameter" -- "david howells";
+"christoph lameter" -- "david s. miller";
+"christoph lameter" -- "hugh dickins";
+"christoph lameter" -- "jiri slaby";
+"christoph lameter" -- "matt mackall";
+"christoph lameter" -- "mel gorman";
+"christoph lameter" -- "neil brown";
+"christoph lameter" -- "nishanth aravamudan";
+"christoph lameter" -- "paulo marques";
+"christoph lameter" -- "pekka enberg";
+"christoph lameter" -- "pekka j enberg";
+"christoph lameter" -- "william lee irwin iii";
+"christophe cattelain" -- "patrick boettcher";
+"chuck ebbert" -- "greg kroah-hartman";
+"chuck lever" -- "denis v. lunev";
+"chuck lever" -- "trond myklebust";
+"clemens ladisch" -- "daniel drake";
+"clemens ladisch" -- "jaroslav kysela";
+"cliff brake" -- "dmitry torokhov";
+"conke hu" -- "jeff garzik";
+"corentin chary" -- "len brown";
+"corey minyard" -- "satyam sharma";
+"corey mutter" -- "david l stevens";
+"cornelia huck" -- "greg kroah-hartman";
+"cornelia huck" -- "heiko carstens";
+"cornelia huck" -- "martin schwidefsky";
+"cornelia huck" -- "srinivasa ds";
+"craig shelley" -- "greg kroah-hartman";
+"cyrill gorcunov" -- "mikael starvik";
+"dale farnsworth" -- "gabriel paubert";
+"dale farnsworth" -- "jeff garzik";
+"dale farnsworth" -- "paul mackerras";
+"dan malek" -- "marcelo tosatti";
+"dan williams" -- "daniel wolstenholme";
+"dan williams" -- "eric w. biederman";
+"dan williams" -- "holger schurig";
+"dan williams" -- "jeff garzik";
+"dan williams" -- "john w. linville";
+"dan williams" -- "jonathan corbet";
+"dan williams" -- "luis carlos cobo rus";
+"dan williams" -- "mauro carvalho chehab";
+"dan williams" -- "russell king";
+"daniel drake" -- "dave jones";
+"daniel drake" -- "greg kroah-hartman";
+"daniel drake" -- "john w. linville";
+"daniel drake" -- "matthew davidson";
+"daniel drake" -- "takashi iwai";
+"daniel drake" -- "ulrich kunitz";
+"daniel mack" -- "karsten wiese";
+"daniel p. engel" -- "jiri kosina";
+"daniel ritz" -- "dmitry torokhov";
+"daniel ritz" -- "ondrej zary";
+"daniel t chen" -- "jaroslav kysela";
+"daniel t chen" -- "takashi iwai";
+"daniel walker" -- "linus torvalds";
+"danny budik" -- "greg kroah-hartman";
+"darrick j. wong" -- "james bottomley";
+"dave airlie" -- "hugh dickins";
+"dave airlie" -- "jay estabrook";
+"dave airlie" -- "juergen orczykowski";
+"dave airlie" -- "michel danzer";
+"dave airlie" -- "robert p. j. day";
+"dave airlie" -- "thomas hellstrom";
+"dave airlie" -- "wang zhenyu";
+"dave gilbert" -- "jan engelhardt";
+"dave jiang" -- "kumar gala";
+"dave jiang" -- "mark a. greer";
+"dave jiang" -- "paul mackerras";
+"dave jones" -- "david rientjes";
+"dave jones" -- "david s. miller";
+"dave jones" -- "eric anholt";
+"dave jones" -- "eric moore";
+"dave jones" -- "gabriel mansi";
+"dave jones" -- "h. peter anvin";
+"dave jones" -- "jan beulich";
+"dave jones" -- "jeff garzik";
+"dave jones" -- "linus torvalds";
+"dave jones" -- "mike frysinger";
+"dave jones" -- "rafal bilski";
+"dave jones" -- "thomas renninger";
+"dave jones" -- "wang zhenyu";
+"dave kleikamp" -- "dave young";
+"dave kleikamp" -- "theodore ts'o";
+"dave olson" -- "roland dreier";
+"dave young" -- "steve french";
+"davi arnaut" -- "davide libenzi";
+"david brownell" -- "dmitry torokhov";
+"david brownell" -- "domen puncer";
+"david brownell" -- "dragos carp";
+"david brownell" -- "erik hovland";
+"david brownell" -- "florin malita";
+"david brownell" -- "greg kroah-hartman";
+"david brownell" -- "haavard skinnemoen";
+"david brownell" -- "imre deak";
+"david brownell" -- "jan nikitenko";
+"david brownell" -- "jean delvare";
+"david brownell" -- "kevin hilman";
+"david brownell" -- "kyungmin park";
+"david brownell" -- "li yang";
+"david brownell" -- "marko vrh";
+"david brownell" -- "matthew garrett";
+"david brownell" -- "milan svoboda";
+"david brownell" -- "nicolas ferre";
+"david brownell" -- "oliver neukum";
+"david brownell" -- "rafael j. wysocki";
+"david brownell" -- "raphael assenat";
+"david brownell" -- "semih hazar";
+"david brownell" -- "takashi iwai";
+"david brownell" -- "tony lindgren";
+"david brownell" -- "zhang rui";
+"david chinner" -- "lachlan mcilroy";
+"david chinner" -- "nathan scott";
+"david chinner" -- "tim shimmin";
+"david gibson" -- "david woodhouse";
+"david gibson" -- "jon loeliger";
+"david gibson" -- "josh boyer";
+"david gibson" -- "ken chen";
+"david gibson" -- "mark a. greer";
+"david gibson" -- "milton miller";
+"david gibson" -- "paul mackerras";
+"david gibson" -- "scott wood";
+"david gibson" -- "segher boessenkool";
+"david gibson" -- "stuart yoder";
+"david greaves" -- "jeff garzik";
+"david greaves" -- "tejun heo";
+"david hardeman" -- "oliver endriss";
+"david hollis" -- "jeff garzik";
+"david howells" -- "david rientjes";
+"david howells" -- "david s. miller";
+"david howells" -- "jarek poplawski";
+"david howells" -- "linus torvalds";
+"david howells" -- "mika kukkonen";
+"david howells" -- "nick piggin";
+"david howells" -- "oleg nesterov";
+"david howells" -- "patrick mchardy";
+"david howells" -- "peter zijlstra";
+"david l stevens" -- "david s. miller";
+"david lamparter" -- "johannes berg";
+"david milburn" -- "sumant patro";
+"david rientjes" -- "paul jackson";
+"david rientjes" -- "ralf baechle";
+"david rientjes" -- "russell king";
+"david rientjes" -- "zachary amsden";
+"david s. miller" -- "deepak saxena";
+"david s. miller" -- "denis cheng";
+"david s. miller" -- "dmitry torokhov";
+"david s. miller" -- "eric dumazet";
+"david s. miller" -- "fabio massimo di nitto";
+"david s. miller" -- "frank pavlic";
+"david s. miller" -- "gerrit renker";
+"david s. miller" -- "heiko carstens";
+"david s. miller" -- "herbert xu";
+"david s. miller" -- "horst h. von brand";
+"david s. miller" -- "ilpo jarvinen";
+"david s. miller" -- "ivo van doorn";
+"david s. miller" -- "jamal hadi salim";
+"david s. miller" -- "james bottomley";
+"david s. miller" -- "james chapman";
+"david s. miller" -- "james morris";
+"david s. miller" -- "jan engelhardt";
+"david s. miller" -- "jarek poplawski";
+"david s. miller" -- "jean delvare";
+"david s. miller" -- "jeff garzik";
+"david s. miller" -- "jerome borsboom";
+"david s. miller" -- "jiri kosina";
+"david s. miller" -- "johannes berg";
+"david s. miller" -- "john heffner";
+"david s. miller" -- "john w. linville";
+"david s. miller" -- "jon paul maloy";
+"david s. miller" -- "josef 'jeff' sipek";
+"david s. miller" -- "kazunori miyazawa";
+"david s. miller" -- "kirill korotaev";
+"david s. miller" -- "krishna kumar";
+"david s. miller" -- "krzysztof helt";
+"david s. miller" -- "kyle mcmartin";
+"david s. miller" -- "linus torvalds";
+"david s. miller" -- "marcel holtmann";
+"david s. miller" -- "mark fortescue";
+"david s. miller" -- "mark glines";
+"david s. miller" -- "martin habets";
+"david s. miller" -- "masahide nakamura";
+"david s. miller" -- "matt mackall";
+"david s. miller" -- "michael chan";
+"david s. miller" -- "michal ostrowski";
+"david s. miller" -- "mikael pettersson";
+"david s. miller" -- "miklos szeredi";
+"david s. miller" -- "mitsuru chinen";
+"david s. miller" -- "olaf kirch";
+"david s. miller" -- "oleg nesterov";
+"david s. miller" -- "patrick mchardy";
+"david s. miller" -- "patrick mcharrdy";
+"david s. miller" -- "pavel emelianov";
+"david s. miller" -- "pekka enberg";
+"david s. miller" -- "peter p. waskiewicz jr.";
+"david s. miller" -- "ralf baechle";
+"david s. miller" -- "randy dunlap";
+"david s. miller" -- "robert olsson";
+"david s. miller" -- "robert p. j. day";
+"david s. miller" -- "robert reif";
+"david s. miller" -- "russell king";
+"david s. miller" -- "rusty russell";
+"david s. miller" -- "sam ravnborg";
+"david s. miller" -- "samuel ortiz";
+"david s. miller" -- "sangtae ha";
+"david s. miller" -- "sergey vlasov";
+"david s. miller" -- "simon arlott";
+"david s. miller" -- "simon horman";
+"david s. miller" -- "srinivas aji";
+"david s. miller" -- "stephen hemminger";
+"david s. miller" -- "stephen rothwell";
+"david s. miller" -- "steven whitehouse";
+"david s. miller" -- "thomas bogendoerfer";
+"david s. miller" -- "thomas graf";
+"david s. miller" -- "tony breeds";
+"david s. miller" -- "urs thuermann";
+"david s. miller" -- "vasily averin";
+"david s. miller" -- "venkatesh pallipadi";
+"david s. miller" -- "vlad yasevich";
+"david s. miller" -- "wei dong";
+"david s. miller" -- "william lee irwin iii";
+"david s. miller" -- "yoshifuji hideaki";
+"david s. miller" -- "yuji sekiya";
+"david teigland" -- "steven whitehouse";
+"david woodhouse" -- "eric w. biederman";
+"david woodhouse" -- "frank mandarino";
+"david woodhouse" -- "jeff garzik";
+"david woodhouse" -- "joakim tjernlund";
+"david woodhouse" -- "john w. linville";
+"david woodhouse" -- "kyungmin park";
+"david woodhouse" -- "linus torvalds";
+"david woodhouse" -- "mike rapoport";
+"david woodhouse" -- "pekka enberg";
+"david woodhouse" -- "randy dunlap";
+"david woodhouse" -- "robert p. j. day";
+"david woodhouse" -- "sam ravnborg";
+"david woodhouse" -- "segher boessenkool";
+"david woodhouse" -- "shashi rao";
+"david woodhouse" -- "thomas gleixner";
+"david woodhouse" -- "thomas knobloch";
+"david woodhouse" -- "wim van sebroeck";
+"davide brini" -- "jeff dike";
+"davide libenzi" -- "heiko carstens";
+"davide libenzi" -- "linus torvalds";
+"deepak saxena" -- "manish lachwani";
+"deepak saxena" -- "michael westerhof";
+"deepak saxena" -- "ruslan sushko";
+"deepak saxena" -- "russell king";
+"denis v. lunev" -- "trond myklebust";
+"dennis ranke" -- "patrick boettcher";
+"diego calleja" -- "linus torvalds";
+"dmitriy monakhov" -- "monakhov dmitriy";
+"dmitry adamushko" -- "ingo molnar";
+"dmitry mishin" -- "patrick mchardy";
+"dmitry pervushin" -- "paul mundt";
+"dmitry torokhov" -- "eric piel";
+"dmitry torokhov" -- "frederik deweerdt";
+"dmitry torokhov" -- "greg kroah-hartman";
+"dmitry torokhov" -- "helge deller";
+"dmitry torokhov" -- "jean delvare";
+"dmitry torokhov" -- "jiri kosina";
+"dmitry torokhov" -- "johann deneux";
+"dmitry torokhov" -- "kenichi nagai";
+"dmitry torokhov" -- "kevin hilman";
+"dmitry torokhov" -- "linus torvalds";
+"dmitry torokhov" -- "marcel holtmann";
+"dmitry torokhov" -- "marvin raaijmakers";
+"dmitry torokhov" -- "matthew dharm";
+"dmitry torokhov" -- "mike frysinger";
+"dmitry torokhov" -- "paul sokolovsky";
+"dmitry torokhov" -- "pavel machek";
+"dmitry torokhov" -- "peter osterlund";
+"dmitry torokhov" -- "peter samuelson";
+"dmitry torokhov" -- "robert p. j. day";
+"dmitry torokhov" -- "rodolfo giometti";
+"dmitry torokhov" -- "roland scheidegger";
+"dmitry torokhov" -- "uwe bugla";
+"dmitry torokhov" -- "vincent vanackere";
+"dmitry torokhov" -- "yoichi yuasa";
+"domen puncer" -- "dragos carp";
+"domen puncer" -- "grant likely";
+"domen puncer" -- "paul mackerras";
+"domen puncer" -- "sylvain munaut";
+"dominik brodowski" -- "james bottomley";
+"dominik brodowski" -- "robert p. j. day";
+"don fry" -- "thomas bogendoerfer";
+"don mullis" -- "sam ravnborg";
+"donald douwsma" -- "kouta ooizumi";
+"donald douwsma" -- "tim shimmin";
+"donald douwsma" -- "utako kusaka";
+"doug chapman" -- "eric moore";
+"doug chapman" -- "j. bruce fields";
+"doug chapman" -- "linus torvalds";
+"douglas gilbert" -- "james bottomley";
+"douglas gilbert" -- "jens axboe";
+"douglas landgraf" -- "douglas schilling landgraf";
+"douglas schilling landgraf" -- "mauro carvalho chehab";
+"duncan sands" -- "oleg nesterov";
+"duncan sands" -- "simon arlott";
+"dwaine garden" -- "mauro carvalho chehab";
+"dwaine garden" -- "thierry merle";
+"dwaine p. garden" -- "mauro carvalho chehab";
+"dwaine p. garden" -- "thierry merle";
+"eberhard fahle" -- "greg kroah-hartman";
+"ed lin" -- "james bottomley";
+"ed vipas" -- "hartmut hackmann";
+"egor martovetsky" -- "michael buesch";
+"egor martovetsky" -- "olof johansson";
+"egor martovetsky" -- "paul mackerras";
+"eli cohen" -- "roland dreier";
+"emil georgiev" -- "ricardo cerqueira";
+"enrico scholz" -- "russell king";
+"eric anholt" -- "wang zhenyu";
+"eric dumazet" -- "eric w. biederman";
+"eric dumazet" -- "ingo molnar";
+"eric dumazet" -- "james morris";
+"eric dumazet" -- "john stultz";
+"eric dumazet" -- "pekka enberg";
+"eric miao" -- "russell king";
+"eric moore" -- "james bottomley";
+"eric moore" -- "randy dunlap";
+"eric moore" -- "simon horman";
+"eric paris" -- "james carter";
+"eric paris" -- "james morris";
+"eric paris" -- "joy latten";
+"eric paris" -- "stephen smalley";
+"eric rannaud" -- "michael ellerman";
+"eric sandeen" -- "lachlan mcilroy";
+"eric sandeen" -- "tejun heo";
+"eric w. biederman" -- "gerd hoffmann";
+"eric w. biederman" -- "greg kroah-hartman";
+"eric w. biederman" -- "james bottomley";
+"eric w. biederman" -- "jeremy fitzhardinge";
+"eric w. biederman" -- "michael ellerman";
+"eric w. biederman" -- "mike miller";
+"eric w. biederman" -- "mitch williams";
+"eric w. biederman" -- "neil brown";
+"eric w. biederman" -- "oleg nesterov";
+"eric w. biederman" -- "rafael j. wysocki";
+"eric w. biederman" -- "rusty russell";
+"eric w. biederman" -- "simon horman";
+"eric w. biederman" -- "sukadev bhattiprolu";
+"eric w. biederman" -- "vivek goyal";
+"eugene surovegin" -- "jeff garzik";
+"eugene surovegin" -- "jeff haran";
+"eugene teo" -- "john w. linville";
+"evgeniy polyakov" -- "linus torvalds";
+"evgeniy polyakov" -- "matt reimer";
+"evgeniy polyakov" -- "paul mundt";
+"fabrice aeschbacher" -- "peter stuge";
+"fengguang wu" -- "jan kara";
+"fenghua yu" -- "tony luck";
+"finn thain" -- "geert uytterhoeven";
+"finn thain" -- "linus torvalds";
+"finn thain" -- "roman zippel";
+"florian fainelli" -- "wim van sebroeck";
+"florian zumbiehl" -- "michal ostrowski";
+"florin malita" -- "h. peter anvin";
+"florin malita" -- "john w. linville";
+"florin malita" -- "linas vepstas";
+"franck bui-huu" -- "ralf baechle";
+"frank filz" -- "j. bruce fields";
+"frank mandarino" -- "liam girdwood";
+"frank pavlic" -- "heiko carstens";
+"frank pavlic" -- "jeff garzik";
+"frank pavlic" -- "jennifer hunt";
+"frank pavlic" -- "martin schwidefsky";
+"frank pavlic" -- "peter tiedemann";
+"frank pavlic" -- "ursula braun";
+"frederik deweerdt" -- "russell king";
+"frederik deweerdt" -- "takashi iwai";
+"fujita tomonori" -- "james bottomley";
+"fujita tomonori" -- "mike christie";
+"g. liakhovetski" -- "guennadi liakhovetski";
+"g. liakhovetski" -- "james bottomley";
+"g. liakhovetski" -- "paul mackerras";
+"g. liakhovetski" -- "samuel ortiz";
+"g. liakhovetski" -- "segher boessenkool";
+"gary zambrano" -- "michael chan";
+"gautham r shenoy" -- "michal piotrowski";
+"gautham r shenoy" -- "rafael j. wysocki";
+"geert uytterhoeven" -- "geoff levand";
+"geert uytterhoeven" -- "john w. linville";
+"geert uytterhoeven" -- "linus torvalds";
+"geert uytterhoeven" -- "mariusz kozlowski";
+"geert uytterhoeven" -- "masashi kimoto";
+"geert uytterhoeven" -- "matthias urlichs";
+"geert uytterhoeven" -- "michael schmitz";
+"geert uytterhoeven" -- "paul mackerras";
+"geert uytterhoeven" -- "robert p. j. day";
+"geert uytterhoeven" -- "roman zippel";
+"geert uytterhoeven" -- "sam creasey";
+"geoff levand" -- "paul mackerras";
+"geoff levand" -- "stephen rothwell";
+"geoff levand" -- "takao shinohara";
+"georg acher" -- "hartmut birr";
+"georg acher" -- "oliver endriss";
+"gerald britton" -- "mike miller";
+"gerald schaefer" -- "martin schwidefsky";
+"gerd hoffmann" -- "jeremy fitzhardinge";
+"gerd hoffmann" -- "paul mundt";
+"gerrit renker" -- "ian mcdonald";
+"giuliano pochini" -- "takashi iwai";
+"graeme gregory" -- "harald welte";
+"graeme gregory" -- "liam girdwood";
+"graeme gregory" -- "seth forshee";
+"grant grundler" -- "kyle mcmartin";
+"grant grundler" -- "mathieu desnoyers";
+"grant grundler" -- "milind arun choudhary";
+"grant grundler" -- "simon arlott";
+"grant grundler" -- "thibaut varene";
+"grant grundler" -- "valerie henson";
+"grant likely" -- "olaf hering";
+"grant likely" -- "paul mackerras";
+"grant likely" -- "peter korsgaard";
+"grant likely" -- "sylvain munaut";
+"greg kroah-hartman" -- "guido scholz";
+"greg kroah-hartman" -- "hans engelen";
+"greg kroah-hartman" -- "jan engelhardt";
+"greg kroah-hartman" -- "jay cliburn";
+"greg kroah-hartman" -- "jean delvare";
+"greg kroah-hartman" -- "jean tourrilhes";
+"greg kroah-hartman" -- "jeff garzik";
+"greg kroah-hartman" -- "jelle foks";
+"greg kroah-hartman" -- "jesse barnes";
+"greg kroah-hartman" -- "jiri kosina";
+"greg kroah-hartman" -- "joey s goncalves";
+"greg kroah-hartman" -- "john anthony kazos jr.";
+"greg kroah-hartman" -- "kay sievers";
+"greg kroah-hartman" -- "kristen carlson accardi";
+"greg kroah-hartman" -- "li yang";
+"greg kroah-hartman" -- "linas vepstas";
+"greg kroah-hartman" -- "markus rechberger";
+"greg kroah-hartman" -- "matthew dharm";
+"greg kroah-hartman" -- "matthias kaehlcke";
+"greg kroah-hartman" -- "matthias urlichs";
+"greg kroah-hartman" -- "michael ellerman";
+"greg kroah-hartman" -- "milan svoboda";
+"greg kroah-hartman" -- "monakhov dmitriy";
+"greg kroah-hartman" -- "neil superna armstrong";
+"greg kroah-hartman" -- "norihiko tomiyama";
+"greg kroah-hartman" -- "oliver neukum";
+"greg kroah-hartman" -- "pavel machek";
+"greg kroah-hartman" -- "pete zaitcev";
+"greg kroah-hartman" -- "peter korsgaard";
+"greg kroah-hartman" -- "phil dibowitz";
+"greg kroah-hartman" -- "randy dunlap";
+"greg kroah-hartman" -- "richard knutsson";
+"greg kroah-hartman" -- "sergei shtylyov";
+"greg kroah-hartman" -- "stephen hemminger";
+"greg kroah-hartman" -- "tejun heo";
+"greg kroah-hartman" -- "tony lindgren";
+"greg kroah-hartman" -- "ville syrjala";
+"greg ungerer" -- "philippe de muyter";
+"greg ungerer" -- "russell king";
+"gregor jasny" -- "luc saillard";
+"gregor jasny" -- "mauro carvalho chehab";
+"h. peter anvin" -- "linus torvalds";
+"h. peter anvin" -- "sam ravnborg";
+"haavard skinnemoen" -- "hans-christian egtvedt";
+"haavard skinnemoen" -- "jean delvare";
+"haavard skinnemoen" -- "robert p. j. day";
+"haavard skinnemoen" -- "thomas gleixner";
+"hal rosenstock" -- "roland dreier";
+"hans j. koch" -- "hans-juergen koch";
+"hans j. koch" -- "jean delvare";
+"hans verkuil" -- "ian armstrong";
+"hans verkuil" -- "jean delvare";
+"hans verkuil" -- "jose alberto reguero";
+"hans verkuil" -- "kevin thayer";
+"hans verkuil" -- "mauro carvalho chehab";
+"hans verkuil" -- "mike isely";
+"hans verkuil" -- "ralph metzler";
+"hans verkuil" -- "robert p. j. day";
+"hans verkuil" -- "servaas vandenberghe";
+"hans-juergen koch" -- "thomas gleixner";
+"hansjoerg lipp" -- "tilman schmidt";
+"harald welte" -- "liam girdwood";
+"hartmut birr" -- "oliver endriss";
+"hartmut birr" -- "thomas kaiser";
+"hartmut hackmann" -- "markus rechberger";
+"hartmut hackmann" -- "mauro carvalho chehab";
+"hartmut hackmann" -- "michael krufky";
+"hartmut hackmann" -- "peter missel";
+"hartmut hackmann" -- "trent piepho";
+"heiko carstens" -- "horst hummel";
+"heiko carstens" -- "james bottomley";
+"heiko carstens" -- "jan glauber";
+"heiko carstens" -- "martin schwidefsky";
+"heiko carstens" -- "peter oberparleiter";
+"heiko carstens" -- "stefan bader";
+"heiko carstens" -- "stefan haberland";
+"heiko carstens" -- "swen schillig";
+"heiko carstens" -- "ursula braun";
+"heinz mauelshagen" -- "milan broz";
+"helge deller" -- "kyle mcmartin";
+"hendrik borghorst" -- "mauro carvalho chehab";
+"henrique de moraes holschuh" -- "len brown";
+"henry su" -- "luugi marsan";
+"herbert xu" -- "jeff garzik";
+"herbert xu" -- "jordan crouse";
+"herbert xu" -- "patrick mchardy";
+"herbert xu" -- "rafael j. wysocki";
+"herbert xu" -- "rusty russell";
+"herbert xu" -- "simon arlott";
+"herbert xu" -- "yoshifuji hideaki";
+"hirokazu takata" -- "hitoshi yamamoto";
+"hirokazu takata" -- "linus torvalds";
+"hiroshi doyu" -- "juha yrjola";
+"hoang-nam nguyen" -- "joachim fenkes";
+"hoang-nam nguyen" -- "roland dreier";
+"holger schurig" -- "john w. linville";
+"hong liu" -- "john w. linville";
+"hugh dickins" -- "jens axboe";
+"hugh dickins" -- "linus torvalds";
+"hugh dickins" -- "matthew wilcox";
+"hugh dickins" -- "nick piggin";
+"hugh dickins" -- "paul mackerras";
+"ian armstrong" -- "john p harvey";
+"ian armstrong" -- "mauro carvalho chehab";
+"ian kumlien" -- "ingo molnar";
+"ian molton" -- "robert p. j. day";
+"ian pratt" -- "jeremy fitzhardinge";
+"igor mammedov" -- "wilhelm meier";
+"ilya a. volynets-evenbakh" -- "len brown";
+"imre deak" -- "juha yrjola";
+"imre deak" -- "tony lindgren";
+"ingo molnar" -- "jarek poplawski";
+"ingo molnar" -- "jean delvare";
+"ingo molnar" -- "linus torvalds";
+"ingo molnar" -- "mark lord";
+"ingo molnar" -- "michael ellerman";
+"ingo molnar" -- "nick piggin";
+"ingo molnar" -- "suresh siddha";
+"ingo molnar" -- "thomas gleixner";
+"ingo molnar" -- "ulrich drepper";
+"ionut nicu" -- "kim phillips";
+"ionut nicu" -- "nicu ioan petru";
+"ishai rabinovitz" -- "roland dreier";
+"ishizaki kou" -- "kou ishizaki";
+"ivan kokshaysky" -- "jay estabrook";
+"ivo van doorn" -- "kristian hoegsberg";
+"j. bruce fields" -- "marc eshel";
+"j. bruce fields" -- "neil brown";
+"j. bruce fields" -- "steven whitehouse";
+"j. bruce fields" -- "trond myklebust";
+"j. bruce fields" -- "wei yongjun";
+"jack morgenstein" -- "roland dreier";
+"jack steiner" -- "tony luck";
+"jake moilanen" -- "michael ellerman";
+"jake moilanen" -- "olof johansson";
+"jake moilanen" -- "paul mackerras";
+"jamal hadi salim" -- "patrick mchardy";
+"james bottomley" -- "james smart";
+"james bottomley" -- "jeff garzik";
+"james bottomley" -- "linus torvalds";
+"james bottomley" -- "mark haverkamp";
+"james bottomley" -- "mark salyzyn";
+"james bottomley" -- "martin k. petersen";
+"james bottomley" -- "matthew wilcox";
+"james bottomley" -- "matthias kaehlcke";
+"james bottomley" -- "michael tokarev";
+"james bottomley" -- "mike christie";
+"james bottomley" -- "pete wyckoff";
+"james bottomley" -- "richard knutsson";
+"james bottomley" -- "robert p. j. day";
+"james bottomley" -- "santiago leon";
+"james bottomley" -- "seokmann ju";
+"james bottomley" -- "sumant patro";
+"james bottomley" -- "swen schillig";
+"james bottomley" -- "tejun heo";
+"james bottomley" -- "thomas gleixner";
+"james bottomley" -- "vignesh babu";
+"james carter" -- "stephen smalley";
+"james courtier-dutton" -- "jaroslav kysela";
+"james morris" -- "karl macmillan";
+"james morris" -- "paul moore";
+"james morris" -- "stephen smalley";
+"james simmons" -- "maciej w. rozycki";
+"james simmons" -- "prarit bhargava";
+"james simmons" -- "robert p. j. day";
+"james t klaas" -- "mauro carvalho chehab";
+"james yang" -- "jon loeliger";
+"jan beulich" -- "jeff dike";
+"jan beulich" -- "linus torvalds";
+"jan engelhardt" -- "jean delvare";
+"jan engelhardt" -- "kristen carlson accardi";
+"jan engelhardt" -- "mauro carvalho chehab";
+"jan engelhardt" -- "paul mackerras";
+"jan engelhardt" -- "pierre ossman";
+"jan engelhardt" -- "roland dreier";
+"jan engelhardt" -- "simon horman";
+"jan engelhardt" -- "steve french";
+"jan engelhardt" -- "wim van sebroeck";
+"jan glauber" -- "martin schwidefsky";
+"jan kara" -- "mark fasheh";
+"jan kara" -- "mike frysinger";
+"jan kara" -- "nick piggin";
+"jan kratochvil" -- "jiri kosina";
+"jan-bernd themann" -- "jeff garzik";
+"janusz krzysztofik" -- "simon horman";
+"jarek poplawski" -- "linus torvalds";
+"jarek poplawski" -- "oleg nesterov";
+"jarod wilson" -- "michael krufky";
+"jaroslav kysela" -- "takashi iwai";
+"jason jin" -- "jon loeliger";
+"jason uhlenkott" -- "trond myklebust";
+"javier cardona" -- "john w. linville";
+"jay cliburn" -- "jeff garzik";
+"jay lan" -- "zou nan hai";
+"jean delvare" -- "juerg haefliger";
+"jean delvare" -- "ladislav michl";
+"jean delvare" -- "mauro carvalho chehab";
+"jean delvare" -- "michael hanselmann";
+"jean delvare" -- "michael krufky";
+"jean delvare" -- "milind arun choudhary";
+"jean delvare" -- "nicolas boichat";
+"jean delvare" -- "rudolf marek";
+"jean delvare" -- "stefan richter";
+"jean delvare" -- "stelian pop";
+"jean delvare" -- "till harbaum";
+"jeff dike" -- "linus torvalds";
+"jeff dike" -- "miklos szeredi";
+"jeff dike" -- "paolo 'blaisorblade' giarrusso";
+"jeff dike" -- "peter zijlstra";
+"jeff dike" -- "robert p. j. day";
+"jeff dike" -- "rusty russell";
+"jeff garzik" -- "jeff haran";
+"jeff garzik" -- "jens axboe";
+"jeff garzik" -- "jesse barnes";
+"jeff garzik" -- "john w. linville";
+"jeff garzik" -- "kim phillips";
+"jeff garzik" -- "komuro";
+"jeff garzik" -- "krzysztof halasa";
+"jeff garzik" -- "lars reemts";
+"jeff garzik" -- "li yang";
+"jeff garzik" -- "linas vepstas";
+"jeff garzik" -- "linus torvalds";
+"jeff garzik" -- "maciej w. rozycki";
+"jeff garzik" -- "manish lachwani";
+"jeff garzik" -- "mariusz kozlowski";
+"jeff garzik" -- "mark brown";
+"jeff garzik" -- "mark lord";
+"jeff garzik" -- "matt mackall";
+"jeff garzik" -- "michael chan";
+"jeff garzik" -- "michael ellerman";
+"jeff garzik" -- "mikael pettersson";
+"jeff garzik" -- "mithlesh thukral";
+"jeff garzik" -- "neil horman";
+"jeff garzik" -- "nobuhiro iwamatsu";
+"jeff garzik" -- "olof johansson";
+"jeff garzik" -- "patrick mchardy";
+"jeff garzik" -- "paul mundt";
+"jeff garzik" -- "paul walmsley";
+"jeff garzik" -- "peer chen";
+"jeff garzik" -- "ralf baechle";
+"jeff garzik" -- "ramkrishna vepa";
+"jeff garzik" -- "randy dunlap";
+"jeff garzik" -- "richard kennedy";
+"jeff garzik" -- "richard knutsson";
+"jeff garzik" -- "robert hancock";
+"jeff garzik" -- "robin h. johnson";
+"jeff garzik" -- "roland dreier";
+"jeff garzik" -- "ron mercer";
+"jeff garzik" -- "russell king";
+"jeff garzik" -- "sam ravnborg";
+"jeff garzik" -- "samuel thibault";
+"jeff garzik" -- "santosh rastapur";
+"jeff garzik" -- "scott wood";
+"jeff garzik" -- "sergei shtylyov";
+"jeff garzik" -- "shani moideen";
+"jeff garzik" -- "sreenivasa honnur";
+"jeff garzik" -- "stefan richter";
+"jeff garzik" -- "stephen hemminger";
+"jeff garzik" -- "tejun heo";
+"jeff garzik" -- "thomas bogendoerfer";
+"jeff garzik" -- "thomas klein";
+"jeff garzik" -- "tom rini";
+"jeff garzik" -- "uwe koziolek";
+"jeff garzik" -- "valerie henson";
+"jeff garzik" -- "vitaly wool";
+"jeff garzik" -- "yoichi yuasa";
+"jeff layton" -- "jeffrey layton";
+"jeff layton" -- "neil brown";
+"jeff layton" -- "steve french";
+"jens axboe" -- "linus torvalds";
+"jens axboe" -- "mike christie";
+"jens axboe" -- "vasily tarasov";
+"jeremy fitzhardinge" -- "rusty russell";
+"jeremy fitzhardinge" -- "william lee irwin iii";
+"jeremy fitzhardinge" -- "zachary amsden";
+"jeremy kerr" -- "paul mackerras";
+"jeremy kerr" -- "sebastian siewior";
+"jesper juhl" -- "markus dahms";
+"jesper juhl" -- "trond myklebust";
+"jiang bo" -- "li yang";
+"jie zhang" -- "roy huang";
+"jing min zhao" -- "patrick mchardy";
+"jiri benc" -- "john w. linville";
+"jiri kosina" -- "marcel holtmann";
+"jiri kosina" -- "marvin raaijmakers";
+"jiri kosina" -- "noel kothe";
+"jiri kosina" -- "paul walmsley";
+"jiri kosina" -- "paul zaremba";
+"jiri kosina" -- "pete zaitcev";
+"jiri kosina" -- "ronny peine";
+"jiri kosina" -- "sam liddicott";
+"jiri kosina" -- "simon budig";
+"jiri slaby" -- "mauro carvalho chehab";
+"jiri slaby" -- "oleg nesterov";
+"joachim fenkes" -- "paul mackerras";
+"joachim fenkes" -- "roland dreier";
+"joachim fenkes" -- "stefan roscher";
+"joakim tjernlund" -- "kumar gala";
+"joakim tjernlund" -- "li yang";
+"joe perches" -- "lachlan mcilroy";
+"joel becker" -- "mark fasheh";
+"joel schopp" -- "linus torvalds";
+"joerg roedel" -- "mark langsdorf";
+"joey goncalves" -- "joey s goncalves";
+"johannes berg" -- "john w. linville";
+"johannes berg" -- "patrick mchardy";
+"johannes berg" -- "paul mackerras";
+"johannes berg" -- "pavel machek";
+"johannes berg" -- "rafael j. wysocki";
+"johannes berg" -- "srinivasa ds";
+"johannes berg" -- "takashi iwai";
+"johannes berg" -- "thomas graf";
+"john anthony kazos jr" -- "john anthony kazos jr.";
+"john johansen" -- "steve beattie";
+"john johansen" -- "tony jones";
+"john keller" -- "tony luck";
+"john rigby" -- "sylvain munaut";
+"john stultz" -- "yoshinori sato";
+"john utz" -- "takashi iwai";
+"john w. linville" -- "jouni malinen";
+"john w. linville" -- "larry finger";
+"john w. linville" -- "luis carlos cobo rus";
+"john w. linville" -- "luis carlos cobo";
+"john w. linville" -- "marcelo tosatti";
+"john w. linville" -- "marcin juszkiewicz";
+"john w. linville" -- "mattias nissler";
+"john w. linville" -- "michael wu";
+"john w. linville" -- "michal schmidt";
+"john w. linville" -- "pavel roskin";
+"john w. linville" -- "tony breeds";
+"john w. linville" -- "zhu yi";
+"jon burgess" -- "oliver endriss";
+"jon loeliger" -- "kumar gala";
+"jon loeliger" -- "paul mackerras";
+"jon loeliger" -- "xianghua xiao";
+"jon loeliger" -- "zhang wei";
+"jon tollefson" -- "paul mackerras";
+"jonathan corbet" -- "mauro carvalho chehab";
+"jonathan corbet" -- "trent piepho";
+"jorge boncompte" -- "patrick mchardy";
+"jose alberto reguero" -- "mauro carvalho chehab";
+"josef 'jeff' sipek" -- "linus torvalds";
+"josef bacik" -- "steven whitehouse";
+"josef sipek" -- "matt mackall";
+"josef sipek" -- "pekka enberg";
+"josef whiter" -- "steven whitehouse";
+"josh boyer" -- "olof johansson";
+"josh boyer" -- "paul mackerras";
+"josh boyer" -- "stephen winiecki";
+"josh triplett" -- "paul e. mckenney";
+"jrgen schindele" -- "russell king";
+"juha yrjola" -- "tony lindgren";
+"julian cable" -- "takashi iwai";
+"kai svahn" -- "tony lindgren";
+"kailang yang" -- "takashi iwai";
+"karl macmillan" -- "stephen smalley";
+"karl pickett" -- "vincent vanackere";
+"karsten keil" -- "matthias goebl";
+"karsten keil" -- "tilman schmidt";
+"karsten wiese" -- "takashi iwai";
+"kaz kojima" -- "paul mundt";
+"ken chen" -- "kenneth w chen";
+"ken chen" -- "linus torvalds";
+"ken chen" -- "tony luck";
+"kenji kaneshige" -- "kristen carlson accardi";
+"kevin corry" -- "paul mackerras";
+"kevin hilman" -- "russell king";
+"kevin hilman" -- "thomas gleixner";
+"kevin welton" -- "russell king";
+"kim phillips" -- "kumar gala";
+"kim phillips" -- "li yang";
+"kim phillips" -- "michael barkowski";
+"kim phillips" -- "paul mackerras";
+"kirill korotaev" -- "pavel emelianov";
+"kirill korotaev" -- "tony luck";
+"kogiidena" -- "paul mundt";
+"kou ishizaki" -- "linas vepstas";
+"kou ishizaki" -- "paul mackerras";
+"kristen carlson accardi" -- "linas vepstas";
+"kristen carlson accardi" -- "scott murray";
+"kristian hoegsberg" -- "marc butler";
+"kristian hoegsberg" -- "olaf hering";
+"kristian hoegsberg" -- "stefan richter";
+"kristoffer ericson" -- "paul mundt";
+"kristoffer ericson" -- "takashi yoshii";
+"krzysztof helt" -- "krzysztof.helt";
+"kumar gala" -- "li yang";
+"kumar gala" -- "robert p. j. day";
+"kumar gala" -- "roy zang";
+"kumar gala" -- "scott wood";
+"kumar gala" -- "sylvain munaut";
+"kumar gala" -- "timur tabi";
+"kyle mcmartin" -- "linus torvalds";
+"kyle mcmartin" -- "milind arun choudhary";
+"kyle mcmartin" -- "thibaut varene";
+"lachlan mcilroy" -- "stewart smith";
+"lachlan mcilroy" -- "tim shimmin";
+"ladislav michl" -- "ralf baechle";
+"larry finger" -- "sam ravnborg";
+"len brown" -- "mattia dongili";
+"len brown" -- "shaohua li";
+"len brown" -- "thomas renninger";
+"len brown" -- "tony luck";
+"len brown" -- "vladimir lebedev";
+"len brown" -- "zhang rui";
+"lennert buytenhek" -- "sam ravnborg";
+"li yang" -- "linus torvalds";
+"li yang" -- "sam ravnborg";
+"liam girdwood" -- "seth forshee";
+"liam girdwood" -- "takashi iwai";
+"linas vepstas" -- "michael ellerman";
+"linas vepstas" -- "paul mackerras";
+"linus torvalds" -- "lukas hejtmanek";
+"linus torvalds" -- "mike miller";
+"linus torvalds" -- "nick piggin";
+"linus torvalds" -- "ogawa hirofumi";
+"linus torvalds" -- "ralf baechle";
+"linus torvalds" -- "richard henderson";
+"linus torvalds" -- "roland dreier";
+"linus torvalds" -- "roland mcgrath";
+"linus torvalds" -- "rolf eike beer";
+"linus torvalds" -- "roman zippel";
+"linus torvalds" -- "sonic zhang";
+"linus torvalds" -- "stephen rothwell";
+"linus torvalds" -- "steven rostedt";
+"linus torvalds" -- "stuart macdonald";
+"linus torvalds" -- "tero roponen";
+"linus torvalds" -- "theodore ts'o";
+"linus torvalds" -- "thomas gleixner";
+"linus torvalds" -- "ulrich drepper";
+"linus torvalds" -- "yasunori goto";
+"luc saillard" -- "mauro carvalho chehab";
+"luca risolia" -- "mauro carvalho chehab";
+"luca risolia" -- "trent piepho";
+"luis carlos" -- "luis carlos cobo";
+"lukas hejtmanek" -- "rafael j. wysocki";
+"maciej w. rozycki" -- "ralf baechle";
+"malahal naineni" -- "seokmann ju";
+"manu abraham" -- "mauro carvalho chehab";
+"manuel lauss" -- "paul mundt";
+"marc pignat" -- "pierre ossman";
+"marcel holtmann" -- "ohad ben-cohen";
+"marcel holtmann" -- "satyam sharma";
+"marcel holtmann" -- "ville tervo";
+"marcelo tosatti" -- "paul mackerras";
+"marcin garski" -- "sam ravnborg";
+"marco costalba" -- "sam ravnborg";
+"marco gittler" -- "mauro carvalho chehab";
+"marco gittler" -- "michael krufky";
+"mariusz kozlowski" -- "paul mackerras";
+"mariusz kozlowski" -- "russell king";
+"mark a. greer" -- "milton miller";
+"mark a. greer" -- "paul mackerras";
+"mark a. greer" -- "scott wood";
+"mark fasheh" -- "randy dunlap";
+"mark fasheh" -- "srinivas eeda";
+"mark fasheh" -- "sunil mushran";
+"mark fasheh" -- "tiger yang";
+"mark mason" -- "ralf baechle";
+"markus f.x.j. oberhumer" -- "tony luck";
+"markus rechberger" -- "mauro carvalho chehab";
+"markus rechberger" -- "michal cijoml semler";
+"martin michlmayr" -- "tony luck";
+"martin murray" -- "rene herman";
+"martin peschke" -- "neil brown";
+"martin peschke" -- "swen schillig";
+"martin schwidefsky" -- "michael holzheu";
+"martin schwidefsky" -- "peter oberparleiter";
+"martin schwidefsky" -- "ursula braun";
+"matej kenda" -- "russell king";
+"mathieu desnoyers" -- "paul mackerras";
+"matt carlson" -- "michael chan";
+"matt keenen" -- "steve french";
+"matt mackall" -- "nick piggin";
+"matt mackall" -- "theodore ts'o";
+"matt mackall" -- "tom rini";
+"matthew wilcox" -- "sam ravnborg";
+"matthew wilcox" -- "wim van sebroeck";
+"matthew wilcox" -- "yoann padioleau";
+"matthias kaehlcke" -- "mattia dongili";
+"matthias kaehlcke" -- "matze";
+"matthias kaehlcke" -- "mike isely";
+"matthias kaehlcke" -- "wim van sebroeck";
+"matthias urlichs" -- "oliver neukum";
+"mauro carvalho chehab" -- "michael krufky";
+"mauro carvalho chehab" -- "michal cijoml semler";
+"mauro carvalho chehab" -- "mike isely";
+"mauro carvalho chehab" -- "oliver endriss";
+"mauro carvalho chehab" -- "oliver neukum";
+"mauro carvalho chehab" -- "pat erley";
+"mauro carvalho chehab" -- "patrick boettcher";
+"mauro carvalho chehab" -- "ricardo cerqueira";
+"mauro carvalho chehab" -- "sakari ailus";
+"mauro carvalho chehab" -- "sam revitch";
+"mauro carvalho chehab" -- "scott alfter";
+"mauro carvalho chehab" -- "simon farnsworth";
+"mauro carvalho chehab" -- "steven toth";
+"mauro carvalho chehab" -- "thierry merle";
+"mauro carvalho chehab" -- "thomas gleixner";
+"mauro carvalho chehab" -- "thomas kaiser";
+"mauro carvalho chehab" -- "trent piepho";
+"mauro carvalho chehab" -- "vignesh babu";
+"mauro carvalho chehab" -- "ville-pekka vainio";
+"michael barkowski" -- "michael reiss";
+"michael ellerman" -- "paul mackerras";
+"michael ellerman" -- "sam ravnborg";
+"michael ellerman" -- "will schmidt";
+"michael hennerich" -- "mike frysinger";
+"michael krufky" -- "pierre willenbrock";
+"michael krufky" -- "trent piepho";
+"michael loehr" -- "swen schillig";
+"michael neuling" -- "paul mackerras";
+"michael neuling" -- "stephen rothwell";
+"michael s. tsirkin" -- "roland dreier";
+"michael s. tsirkin" -- "sean hefty";
+"michael s. tsirkin" -- "yosef etigin";
+"michael schmitz" -- "roman zippel";
+"michael-luke jones" -- "russell king";
+"michal miroslaw" -- "patrick mchardy";
+"michal piotrowski" -- "randy dunlap";
+"michal piotrowski" -- "stefan lucke";
+"mikael pettersson" -- "tejun heo";
+"mike accetta" -- "neil brown";
+"mike frysinger" -- "roy huang";
+"mike frysinger" -- "sam ravnborg";
+"mike isely" -- "tejun heo";
+"mike miller" -- "stephen m. cameron";
+"miklos szeredi" -- "paul e. mckenney";
+"milan svoboda" -- "russell king";
+"milind arun choudhary" -- "paul mackerras";
+"milind arun choudhary" -- "ralf baechle";
+"milind arun choudhary" -- "stefan richter";
+"milind arun choudhary" -- "takashi iwai";
+"milind arun choudhary" -- "tony luck";
+"milton miller" -- "paul mackerras";
+"milton miller" -- "scott wood";
+"mingming cao" -- "theodore ts'o";
+"mitsuru chinen" -- "yoshifuji hideaki";
+"naranjo manuel francisco" -- "oliver neukum";
+"nathan scott" -- "tim shimmin";
+"neil brown" -- "peter staubach";
+"neil brown" -- "trond myklebust";
+"neil horman" -- "yoshifuji hideaki";
+"nick piggin" -- "peter zijlstra";
+"nicolas ferre" -- "russell king";
+"nicolas pitre" -- "pierre ossman";
+"nicolas pitre" -- "russell king";
+"nigel cunningham" -- "pavel machek";
+"nigel cunningham" -- "rafael j. wysocki";
+"nobuhiro iwamatsu" -- "paul mundt";
+"ogawa hirofumi" -- "vignesh babu";
+"olaf hering" -- "paul mackerras";
+"olaf kirch" -- "samuel ortiz";
+"oleg nesterov" -- "rafael j. wysocki";
+"oliver endriss" -- "ralph metzler";
+"oliver hartkopp" -- "urs thuermann";
+"olof johansson" -- "paul mackerras";
+"olof johansson" -- "stephen rothwell";
+"olof johansson" -- "stephen winiecki";
+"pablo neira ayuso" -- "patrick mchardy";
+"patrick caulfield" -- "steven whitehouse";
+"patrick mchardy" -- "sami farin";
+"patrick mchardy" -- "stephen hemminger";
+"patrick mchardy" -- "thomas graf";
+"patrick mchardy" -- "tobias klauser";
+"patrick mchardy" -- "willy tarreau";
+"patrick mchardy" -- "yasuyuki kozakai";
+"paul jackson" -- "paul menage";
+"paul mackerras" -- "peter korsgaard";
+"paul mackerras" -- "rafael j. wysocki";
+"paul mackerras" -- "robert p. j. day";
+"paul mackerras" -- "roy zang";
+"paul mackerras" -- "sam ravnborg";
+"paul mackerras" -- "scott wood";
+"paul mackerras" -- "segher boessenkool";
+"paul mackerras" -- "simon arlott";
+"paul mackerras" -- "sonny rao";
+"paul mackerras" -- "stefan roese";
+"paul mackerras" -- "stephen rothwell";
+"paul mackerras" -- "stephen winiecki";
+"paul mackerras" -- "stuart yoder";
+"paul mackerras" -- "sylvain munaut";
+"paul mackerras" -- "thomas gleixner";
+"paul mackerras" -- "tony breeds";
+"paul mackerras" -- "tony vroon";
+"paul mackerras" -- "will schmidt";
+"paul moore" -- "stephen smalley";
+"paul mundt" -- "pekka enberg";
+"paul mundt" -- "ralf baechle";
+"paul mundt" -- "roland dreier";
+"paul mundt" -- "russell king";
+"paul mundt" -- "ryusuke sakato";
+"paul mundt" -- "sam ravnborg";
+"paul mundt" -- "simon arlott";
+"paul mundt" -- "sugioka toshinobu";
+"paul mundt" -- "takashi yoshii";
+"paul mundt" -- "yasunori goto";
+"paul mundt" -- "yoann padioleau";
+"paul sokolovsky" -- "roman moravcik";
+"paulo marques" -- "robert peterson";
+"pavel hofman" -- "takashi iwai";
+"pavel machek" -- "rafael j. wysocki";
+"pavel machek" -- "russell king";
+"pavel pisa" -- "pierre ossman";
+"pekka enberg" -- "pekka j enberg";
+"pekka enberg" -- "rusty russell";
+"peter korsgaard" -- "randy dunlap";
+"peter stokes" -- "ville syrjala";
+"peter zijlstra" -- "trond myklebust";
+"petr vandrovec" -- "stefan richter";
+"philip langdale" -- "pierre ossman";
+"pierre ossman" -- "robert p. j. day";
+"pierre ossman" -- "russell king";
+"pierre ossman" -- "syed khasim";
+"pierre ossman" -- "tony lindgren";
+"pierre ossman" -- "yoichi yuasa";
+"pierre peiffer" -- "sebastien dugue";
+"pravin b. shelar" -- "ravikiran g thirumalai";
+"pravin b. shelar" -- "shai fultheim";
+"rafael j. wysocki" -- "stefan richter";
+"rafal bilski" -- "rafał bilski";
+"ralf baechle" -- "robert p. j. day";
+"ralf baechle" -- "sergey shtylyov";
+"ralf baechle" -- "takashi iwai";
+"ralf baechle" -- "thiemo seufer";
+"ralf baechle" -- "thomas bogendoerfer";
+"ralf baechle" -- "thomas gleixner";
+"ralf baechle" -- "yoichi yuasa";
+"ralph campbell" -- "robert walsh";
+"ralph campbell" -- "roland dreier";
+"ramkrishna vepa" -- "santosh rastapur";
+"randy dunlap" -- "robert p. j. day";
+"randy dunlap" -- "sam ravnborg";
+"randy dunlap" -- "stefan richter";
+"randy dunlap" -- "thomas gleixner";
+"rask ingemann lambertsen" -- "takashi iwai";
+"ravikiran g thirumalai" -- "shai fultheim";
+"remy bohmer" -- "russell king";
+"remy bruno" -- "takashi iwai";
+"rene herman" -- "takashi iwai";
+"richard knutsson" -- "stuart macdonald";
+"richard lary" -- "seokmann ju";
+"richard purdie" -- "russell king";
+"robert jennings" -- "santiago leon";
+"robert olsson" -- "stephen hemminger";
+"robert p. j. day" -- "sam ravnborg";
+"robert peterson" -- "steven whitehouse";
+"robert walsh" -- "roland dreier";
+"robin holt" -- "tony luck";
+"roland dreier" -- "rolf manderscheid";
+"roland dreier" -- "sean hefty";
+"roland dreier" -- "steve wise";
+"roland mcgrath" -- "satoru takeuchi";
+"roland mcgrath" -- "stephen smalley";
+"rolf eike beer" -- "tejun heo";
+"roy huang" -- "sonic zhang";
+"roy zang" -- "xianghua xiao";
+"roy zang" -- "york sun";
+"roy zang" -- "zang roy-r61911";
+"ruslan  sushko" -- "russell king";
+"ruslan  sushko" -- "vladimir barinov";
+"ruslan sushko" -- "vladimir barinov";
+"ruslan v. sushko" -- "vladimir barinov";
+"russell king" -- "sam ravnborg";
+"russell king" -- "sascha hauer";
+"russell king" -- "simon arlott";
+"russell king" -- "simon richter";
+"russell king" -- "thomas gleixner";
+"russell king" -- "tony lindgren";
+"russell king" -- "uwe kleine-kanig";
+"sam ravnborg" -- "uwe kleine-kanig";
+"sam ravnborg" -- "uwe zeisberger";
+"sandeep patil" -- "sandeep sanjay patil";
+"sergei shtylyov" -- "sergey shtylyov";
+"sergei shtylyov" -- "thomas gleixner";
+"seth forshee" -- "takashi iwai";
+"shaggy" -- "steve french";
+"shahrom sharif" -- "thomas gleixner";
+"simon arlott" -- "tony luck";
+"simon arlott" -- "trent piepho";
+"simon horman" -- "vivek goyal";
+"sridhar samudrala" -- "vlad yasevich";
+"stas sergeev" -- "thomas gleixner";
+"stephen cameron" -- "stephen m. cameron";
+"steve dickson" -- "trond myklebust";
+"steve french" -- "urs fleisch";
+"steve french" -- "vignesh babu";
+"steve french" -- "wilhelm meier";
+"steve french" -- "yehuda sadeh weinraub";
+"steve longerbeam" -- "takashi iwai";
+"steven whitehouse" -- "thomas graf";
+"stewart smith" -- "tim shimmin";
+"suresh b siddha" -- "suresh siddha";
+"suresh siddha" -- "tony luck";
+"suresh siddha" -- "zou nan hai";
+"syed mohammed khasim" -- "tony lindgren";
+"sylvain foret" -- "takashi iwai";
+"takashi iwai" -- "thomas reitmayr";
+"takashi iwai" -- "tobin davis";
+"takashi iwai" -- "vignesh babu";
+"takashi iwai" -- "wolke liu";
+"takashi iwai" -- "zoltan devai";
+"tejun heo" -- "tony breeds";
+"thierry merle" -- "trent piepho";
+"thomas a. morrison" -- "tom morrison";
+"thomas gleixner" -- "thomas knobloch";
+"thomas gleixner" -- "vitaly wool";
+"tim shimmin" -- "timothy shimmin";
+"tim shimmin" -- "utako kusaka";
+"tim shimmin" -- "vlad apostolov";
+"tony luck" -- "venkatesh pallipadi";
+"tony luck" -- "vignesh babu";
+"tony luck" -- "zou nan hai";
+"utako kusaka" -- "vlad apostolov";
+"venkatesh pallipadi" -- "venki pallipadi";
+"vignesh babu" -- "vignesh babu bm";
+"vignesh" -- "vignesh babu";
+"vlad drukker" -- "wim van sebroeck";
+"yasuyuki kozakai" -- "yoshifuji hideaki";
+"yoshifuji hideaki" -- "yuji sekiya";
+{ rank = min; "linus torvalds"; }
+{ rank = max; "andrew morton"; }
+}

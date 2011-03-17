@@ -1,0 +1,36 @@
+#!/bin/bash
+
+END_FILE=done.dot
+
+TMPFILE1=`mktemp example.XXXXXX`
+TMPFILE2=`mktemp example.XXXXXX`
+TMPFILE3=`mktemp example.XXXXXX`
+TMPFILE4=`mktemp example.XXXXXX`
+
+for LOG_FILE in $*
+do
+	touch $TMPFILE4
+	cat $LOG_FILE >> $TMPFILE4
+done
+
+echo "calculating colors"
+cat $TMPFILE4 | ./generate-colors.pl | sort | uniq > $TMPFILE2
+
+NUM_DEVEL=`cat $TMPFILE2 | wc -l`
+
+echo "calculating signed-of-by chain"
+cat $TMPFILE4 | ./generate-signed-off-chain.pl | sort | uniq > $TMPFILE1
+
+echo "graph {" > $TMPFILE3
+cat $TMPFILE2 >> $TMPFILE3
+cat $TMPFILE1 >> $TMPFILE3
+echo "{ rank = min; \"linus torvalds\"; }" >> $TMPFILE3
+echo "{ rank = max; \"andrew morton\"; }" >> $TMPFILE3
+echo "}" >> $TMPFILE3
+
+cp $TMPFILE3 $END_FILE
+
+rm $TMPFILE1 $TMPFILE2 $TMPFILE3 $TMPFILE4
+
+echo "Number of developers = $NUM_DEVEL"
+echo "Diagram is in $END_FILE"

@@ -1,0 +1,11 @@
+dot -Tsvg x2 -o x2.svg -Gcharset=latin1 -Gsize=96,48
+fdp -Tsvg x -o x3.svg -Gcharset=latin1 -Gsize=96,48 -Ecolor=gray -Nstyle=filled -Ncolor=green
+
+neato -Tsvg x -o x.svg -Gcharset=latin1 -Gsize=96,48  -Ecolor=gray -Nstyle=filled -Goverlap=scale -Nfontsize=100 -Nfontname="Bitstream Vera Sans" -Nheight=4 -Nwidth=8 -v
+
+
+ dot -Tsvg x -o x.svg -Gcharset=latin1 -Gsize=96,48  -Ecolor=gray -Nstyle=filled -Goverlap=scale -Nfontsize=44 -Gconcentrate=true -Nfontname="Bitstream Vera Sans" -Granksep=5 -Gnodesep=.5 -v -Gratio=fill
+
+  dot -Tsvg x -o x.svg -Gcharset=latin1 -Gsize=120,48  -Ecolor=gray -Nstyle=filled -Goverlap=scale -Nfontsize=44 -Gconcentrate=true -Nfontname="Arial" -Granksep=5 -Gnodesep=.5 -v -Gratio=fill
+
+dot -Tsvg 22 -o 22.svg -Gcharset=latin1 -Ecolor=gray -Nstyle=filled -Goverlap=compress -Nfontsize=9 -Gconcentrate=true -Nfontname="Arial" -Gnodesep=.5 -v -Gratio="fill" -Gsize=540,24 
