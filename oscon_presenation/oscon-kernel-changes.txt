@@ -1,0 +1,245 @@
+Past year:
+	2110 different developers
+	3.31 changes per hour
+	97.12 lines added per hour
+	115.83 lines changed per hour
+
+
+In the past year of kernel development there were
+
+2110 different developers
+5 major kernel releases
+37 minor kernel releases
+2330 lines added every day
+2780 lines modified every day
+Do these people ever sleep?
+
+
+
+
+
+
+2.6.18
+released September 19, 2006
+95 days of development
+6,791 changes
+8,972 files changed
+899 developers
+2.98 changes per hour
+8 minor releases
+
+
+lightweight userspace priority inheritance
+lockdep, kernel lock validator
+new power saving policy
+smpnice
+swapless page migration
+per-zone vm counters
+per-task delay accounting
+libata update
+CFQ IO schedular became default
+secmark (security markings to packets via iptables)
+bind/unbind vt console
+generic irq layer
+generic core time subsystem
+randomize i386 vDSO
+disable pci devices from userspace
+uevent notice for docking laptops
+sysfs ISA interface
+devfs finally removed
+64bit resources
+export_unused_symbol
+
+
+new drivers
+	zydas usb wireless driver
+	ioatdma driver
+	imac frame buffer driver
+	highpoint rocketraid driver
+	myri 10gb ethernet driver
+	echoaudio sound drivers
+	smc911x ethernet driver
+	apple cinema display control over usb
+	acpi dock driver
+	freescale gigabit ethernet driver
+
+
+
+
+
+2.6.19
+released November 29, 2007
+72 days of development
+7073 changes
+8040 files changed
+880 developers
+4.09 changes per hour
+7 minor kernel releases
+
+GFS2
+EXT4
+Ecryptfs
+Parallel ATA (PATA) merge
+some OSS drivers removed
+AVR32 architecture added
+Sleepable RCU
+Configurable block layer
+
+vectored aio support
+software suspend speedups
+pci express advanced error reporting
+irq handling infrastructure rework
+/sys/devices/virtual tree added
+kernel crash module added (to crash the kernel on purpose)
+fat flushed mount option
+netlabel added
+mobile ipv6 support added
+in-kernel sockets api
+crypto algorithm manager
+usbserial got suspend/resume
+
+
+new drivers
+	qla3xxx network driver
+	ibm eHEA ethernet driver
+	cirrus logic ep93xx ethernet driver
+	aic94xx scsi driver
+	areca raid scsi driver
+	promise supertrak scsi driver
+	qlogic iSCSI driver
+	playstation 2 trance vibrator driver
+
+
+
+2.6.20
+Feburary 4, 2007
+68 days of development
+5825 files changed
+728 developers
+3.05 changes per hour
+15 minor kernel releases
+
+KVM added (full virturalization of the system)
+paravirtualization layer added
+Sony Playstation 3 support added
+relocatable kernel support for x86
+fault injection so we can test the kernel under stress
+io accounting per process now
+relative atime support
+udp-lite for ipv4 added
+generic HID layer for bluetooth and USB
+sleazy FPU optimization
+regparm added to i386
+round_jiffies infrastructure to save power
+shared page tables for hugetlb
+new swap token algorithm
+workqueue rework
+tty termios rework
+generic BUG implementation
+internal notification for bus events
+show the drivers that are present in every module in sysfs
+CONFIG_SYSFS_DEPRECATED added for older distros like Debian
+generic LOG2 library
+bit reverse library
+pci_enable_device can be nested
+
+
+
+
+new drivers
+	admen MACB ethernet
+	TSI 108/9 ethernet
+	Netxen 1/10Gbit ethernet
+	winbond w83793 hardware monitoring driver
+	pc87427 harware monitoring driver
+	AMS hardware monitoring driver
+	Atmel AI91 i2c bus driver
+	2 new watchdog drivers
+	philips UCB1400 touchscreen driver
+
+
+
+
+2.6.21
+April 25, 2007
+81 days of development
+5825 files changed
+836 developers
+2.75 changes per hour
+6 minor kernel releases
+
+
+VMI (virtual machine interface added (vmware and xen use this))
+KVM updated and added paravirtualization support
+dynamic tics and no hz added (big power savings)
+alsa system on a chip support added
+dynamic kernel command line
+optional ZONE_DMA
+devres support added, making it easier to write drivers
+GPIO infrastructure added
+shadow directory support for sysfs
+whole_disk partition attributes for disks
+kockdep graph depth informationcat
+PCI MSI support for more architectures
+module name support for built in drivers
+userspace can taint the kernel if it wants to (realtime java does this because
+it is so horrible.)
+lots of arch specific updates
+ecryptfs updates and features added
+minix V3 filesystem support added
+removed JFFS1 support
+debugfs added symbolic links
+ipv4 over ipv6 ipsec tunnel
+ipv6 over ipv4 ipsec tunnel
+lockdown audit mode
+display output class added to sysfs
+loads of new alsa drivers added
+usbmonitoring code adds binary interface so that all usb data can be captured
+autosuspend support for usb printers
+dynamic id for usb-serial drivers
+lots of dvb driver updates
+i2c added suspend/resume support
+
+new drivers
+	usb blackberry charging driver
+	iowarrior usb driver
+	CTCO usb tablet driver
+	Chelsio 10Gbit ethernet driver
+	Attansic L1 ethernet driver
+	Davicom usb ethernet driver
+	(more if needed)
+
+
+
+2.6.22
+July 8, 2007
+75 days of development
+7620 files changed
+959 developers
+3.8 changes per hour
+1 minor kernel release
+
+New slab allocator called SLUB
+totally new wireless stack added based on the devicescape codebase
+totally new firewire stack so we can finally have working firewire
+new syscalls to send signals through file descriptors
+blackfin architecture added
+UBI (filesystem stuff for flash memory devices) added
+secure RxRPC sockets
+ways to properly measure process footprints dynamically
+utimensat() syscall added as per the new POSIX spec
+ivtv driver for the Conexant mpeg encoder/decoder added:
+	took 3 maintainers, 4 years of work, 8 i2c modules, 11 new v4l ioctls,
+	3 new dvb ioctls, sliced VBI api, new mpeg encoder api, enhanced DVB
+	video MPEG decoding api, and many many users
+usermode SPI driver
+futex priority based wakeup
+device multithreaded probing works per subsystem instead of per driver (still stupid idea...)
+userspace notification of network device renames
+mount/umount uevents were removed
+256 loop device restriction was removed
+Itanium fault injection tool added
+AFS major rework and features added
+FAT changes to handle undocumented changes in Windows
+new TCP congestion control 
+

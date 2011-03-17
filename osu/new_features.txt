@@ -1,0 +1,98 @@
+sc26xx serial ports
+dallas timekeeping chips
+realtime clock devices
+marvell memory controllers
+nand flash interfaces
+marvel flash controllers
+zaurus keyboards
+lifebook panel buttons
+ipwireless pcmcia cards
+storage device enclosuers
+winbond sensor chips
+ti adc devices
+sony memory stick cards
+globe trotter wireless cards
+crypto accelerator chips
+xceive tuners
+cirrus logic a/d converters
+beholder tv tuners
+syntek cameras
+marvel orion soc
+marvel feroceon processors
+superH processor updates
+Broadcom 10Gb network adaptors
+rtd8180 and 8185 wireless network cards
+microchip en28j60 ethernet chips
+atheros wireless network drivers
+usb printer gadget
+rdc soc
+onkyo sound devices
+nilinx and ti codecs
+realteck codecs
+via codecs
+SiS audio accelrators
+oxygen audio chipsets
+conexant codecs
+fantasia sound cards
+wireless RNDIS
+neteffect 1/10Gb ethernet
+
+
+salsa20 stream cipher support
+realtime scheduler work
+preempt rcu added
+latencytop support
+kprobes for arm
+CLONE_IO flag added to clone()
+idle i/o scheduler changes
+ext4 new features
+CAN network protocol
+network traffic shaper removed
+network namespace rework
+Chinese translations of documentation
+kobject/kset rework and cleanup
+LSM mount/umount operations
+sg_table addition
+block request completion API changed
+alsa sequencer removed
+selinux updates
+netfilter hashlimit mechanism added
+flow network classifier
+pci hotplug not experimental
+futex added bitset wait
+virtio baloon
+kvm pci driver
+timerfd() syscall is back
+page map patches
+PM QOS
+per-process capability bounding sets
+SMACK LSM added
+smbfs deprecated
+x86 merge continues
+flatmem and discontigmem removed for x86-64
+ticket spinlock
+fastcall removed for x86
+bidrectional scsi commands
+TASK_KILLABLE added
+early boot for firewire
+hires timers
+dma_parameters added to struct device
+intel video driver updates
+amd vide driver updates
+oss sound drivers removed
+inotify_init() support signals
+memory use controller for containers
+acpi thermal regulation
+acpi dsdt override
+xfs supports fallocate()
+multipath AoE
+MN10300 arch merge
+a.out support removed from ELF loader
+more disk I/O stats
+s390 can do dynamic page tables
+ext4 development flag
+nopage() replaced with fault()
+BKL removals
+generic resource counter
+reserve_bootmem() new flags
+new string functions

@@ -1,0 +1,99 @@
+Korina driver
+superH MX-G
+SH-MobileR2 CPU support
+Solution Engine SH7721
+ARM YL9200
+Kwikbyte KB9260
+Olimex SAM9-L9260
+emQbit ECB_AT91
+Digi ns921x processor
+Nias SMX crypto
+AMCC PPC460EX
+Emerson KSI8560
+WindRiver SBC8641D
+Logitech Rumblepad 2
+Renesas SH7760 I2c
+SuperH Mobile I2C
+PCI Express ASPM
+security= boot option
+NAT for SCTP, SCCP and UDP-lite
+network window scaling with syncookies
+network namespace work
+mesh networking for mac80211
+SELinux permisive types
+realtime group scheduler work
+SunOS binary support removed
+read-only bind mounts
+kbdb
+PAT for x86
+inode_getsecid()
+ipc_getsecid()
+ieee80211 MAC removed
+generic semaphores
+ata_port_operations inheritance
+ns_to_ktime()
+struct class_device removed
+SEQ_SKIP allowed from show()
+Wolfson WM9713 codecs
+TI DAVINCI AC97
+Emagic Audiowerk 2
+x86 PC speakers
+Asus AV100 (Xonar DX)
+Micron MT9M001
+Micron MT9V022
+PXA27x Quick Capture
+Kworld ATSC 120 tuners
+cx23417 MPEG encoders
+Integrant ITD1000 tuners
+Philips TDA10048HN-based demodulators
+Philips SAA7171/3/4 audio/video decoders
+Auvitek AU8522 demodulators
+Samsung S5H1411-based tuners
+Xen framebuffer
+Xen keyboard
+Xen mouse
+Wolfson Microelectronics touchscreens
+wireless Xbox 360 controller
+Zhen Hua PPM-4CH transmitters
+SPCP8x5 USB to serial
+NCR 53c9x SCSI controller
+Freescale 8610 and 5121 display
+Intel 965G/965GM
+TI OMAP sound controller
+Eee PC function keys
+Intel IXP4xx Ethernet
+basic braille screen reader support
+OLPC XO architecture support
+virtual files in /proc/pid/mountinfo
+/proc/vmallocinfo
+NUMA for SPARC Niagra
+Xen baloon driver
+/dev/mem support removed
+KVM for s390
+KVM for PowerPC 440
+KVM for ia64
+perprocess secure bits
+getrusage() RUSAGE_THREAD
+partions with NBD
+audit open file tests
+/sys/class/bdi
+shared writable mappings for FUSE
+ioremap() always uncached on x86
+/sys/kernel/slab/NAME/order
+WARN_ON taints kernel
+get_info() for /proc removed
+proc_create_data()
+object debugging infrastructure
+Solarflare Communications Solarstorm SFC4000
+Hauppauge HVR-1600 TV tuner card
+ISP 1760 USB host controller
+Cypress c67x00 OTG controller
+Intel PXA 27x USB controller
+DEFINE_KLIST()
+KLIST_INIT()
+klist_add_after()
+klist_add_before()
+div_u64 and friends
+sysfs_streq
+MODULE_FORCE_LOAD
+
