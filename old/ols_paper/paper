@@ -1,0 +1,369 @@
+
+Intro
+
+The Linux kernel is one of the most popular Open Source development
+projects, and yet not much attention has been placed on who is doing
+this development, who is sponsoring this development, and what exactly
+is being developed.  This paper should help explain some of these facts
+by delving into the kernel changelogs and producing lots of statistics.
+
+This paper will focus on the kernel releases of the past two and 1/3
+years, from the 2.6.11 through the 2.6.21 release.
+
+
+Development vs. Stability
+
+In the past, the Linux kernel was split into two different trees, the
+"development" branch, and the "stable" branch.  The development branch
+was specified by using an odd number for th second release number, while
+the stable branch used an even number.  As an example, the 2.5.32
+release was a development release, while the 2.4.24 release is a stable
+release.
+
+After the 2.6 kernel series was created, the developers decided to
+change this method of having two different trees.  They declared that
+all 2.6 kernel releases would be considered "stable", no matter how
+quickly development was happening.  These releases would happen every 2
+to 3 months and would allow developers to add new features and then
+stabilize them in time for the next release.  This was done in order to
+allow distributions to be able to decide on a release point easier by
+always having at least one stable kernel release near a distribution
+release date.
+
+To help with stability issues while the developers are creating a new
+kernel version, a "-stable" branch was created that would contain bug
+fixes and security updates for the past kernel release before the next
+major release happened.
+
+This is best explained with the diagram shown here.  The kernel team
+released the 2.6.19 kernel as a stable release.  Then the developers
+started working on new features and started releasing the -rc versions
+as development kernels so that people could help test and debug the
+changes.  After everyone agreed that the development release was stable
+enough, it was released as the 2.6.20 kernel.
+
+While the development of new features was happening, the 2.6.19.1,
+2.6.19.2, and other stable kernel versions were released, containing bug
+fixes and security updates.
+
+For this paper, we are going to focus on the main kernel releases, and
+ignore the -stable releases, as they contain a very small number of
+bugfixes and are not where any development happens.
+
+Frequency of release
+
+When the kernel developers first decided on this new development cycle,
+it was said that a new kernel would be released every 2-3 months, in
+order to prevent lots of new development from being "backed up".  Lets
+look at the real results:
+
+2.6.11	69
+2.6.12	108
+2.6.13	73
+2.6.14	61
+2.6.15	68
+2.6.16	77
+2.6.17	91
+2.6.18	95
+2.6.19	72
+2.6.20	68
+2.6.21	81
+Average	(863/11)=78 (2.6 months)
+
+It turns out that they were very correct, with the average being 2.6
+months between releases.
+
+Rate of Change
+
+When modifying the Linux kernel, developers break their changes down
+into small, individual units of change, called patches.  These patches
+usually do only one thing to the source tree, and are built on top of
+each other, modifying the source code by changing, adding, or removing
+lines of code.  At each change point in time, the kernel should be able
+to be successfully built and operate.  By enforcing this kind of
+discipline, the kernel developers must break their changes down into
+small logical pieces.  The number of individual changes that go into
+each kernel release is very large:
+
+
+Number of individual changes
+
+release	changes
+2.6.11	4041
+2.6.12	5565
+2.6.13	4174
+2.6.14	3931
+2.6.15	5410
+2.6.16	5734
+2.6.17	6113
+2.6.18	6791
+2.6.19	7073
+2.6.20	4983
+2.6.21	5349
+
+When you compare the number of changes per release, with the length of
+time for each release, you can determine the number of changes per hour:
+
+release	changes per hour
+2.6.11	2.44
+2.6.12	2.15
+2.6.13	2.38
+2.6.14	2.69
+2.6.15	3.31
+2.6.16	3.1
+2.6.17	2.8
+2.6.18	2.98
+2.6.19	4.09
+2.6.20	3.05
+2.6.21	2.75
+
+So, from the 2.6.11 to the 2.6.21 kernel release, a total of 852 days,
+there were 2.89 patches applied to the kernel tree per hour.  And that
+is only the patches that were accepted.
+
+
+Kernel Source Size
+
+The Linux kernel keeps growing in size over time, as more hardware is
+supported, and new features added.  For the following numbers, I count
+everything in the released Linux source tarball as "source code" even
+though a small percentage is the scripts used to configure and build the
+kernel, as well as a minor amount of documentation.  This is done
+because someone creates those files, and are worthy of being mentioned.
+
+release	files	lines
+2.6.11	17091	6624076
+2.6.12	17361	6777860
+2.6.13	18091	6988800
+2.6.14	18435	7143233
+2.6.15	18812	7290070
+2.6.16	19252	7480062
+2.6.17	19554	7588014
+2.6.18	20209	7752846
+2.6.19	20937	7976221
+2.6.20	21281	8102533
+2.6.21	21615	8246517
+
+Over these releases, the kernel team has a very constant growth rate of
+about 10% per year, a very impressive number given the size of the code
+tree.
+
+When you combine the number of lines added per release, and compare it
+to the amount of time per release, you can get some very impressive
+numbers:
+
+release	lines per hour
+2.6.11	77.62
+2.6.12	59.33
+2.6.13	120.4
+2.6.14	105.49
+2.6.15	89.97
+2.6.16	102.81
+2.6.17	49.43
+2.6.18	72.29
+2.6.19	129.27
+2.6.20	77.4
+2.6.21	74.07
+
+Summing up these numbers, it comes to a crazy 85.63 new lines of code
+being added to the kernel tree every hour for the past 2 1/3 years.
+
+
+
+Where the Change is Happening
+
+The Linux kernel source tree is highly modular, enabling new drivers and
+new architectures to be added quite easily.  The source code can be
+broken down into the following categories:
+
+ - core
+   This is the core kernel code, run by everyone and included in all
+   architectures.  This code is located in the subdirectories block/
+   ipc/ init/ kernel/ lib/ mm/ and include/
+
+ - drivers
+   These are the drivers for different hardware and virtual devices.
+   This code is located in the subdirectories crypto/ drivers/ sound/
+   security/
+
+ - include
+   These are the kernel header files.  They include allmost all .h files
+   needed to build the kernel.  This code is located in the include/
+
+ - architecture
+   This is the CPU specific code, where anything that is only for a
+   specific processor lives.  This code is located in the arch/
+   subdirectory.
+
+ - network
+   This is the code that controls the different networking protocols.
+   It is located in the net/ subdirectory.
+
+ - filesystems
+   This is the code that controls the different filesystems.  It is
+   located in the fs/ subdirectory.
+
+ - miscellaneous
+   This is the rest of the kernel source code, including the code needed
+   to build the kernel, and the documentation for various things.  It is
+   located in Documentation/ scripts/ usr/
+
+
+The breakdown of the 2.6.21 kernel's source tree is shown in table X
+
+Category	num files	% based on files	num lines of code	% based on lines
+core		 1,371		 6%			  330,637		 4%
+drivers		 6,537		30%			4,304,859		52%
+architecture	10,235		47%			2,127,154		26%
+network		 1,095		 5%			  506,966		 6%
+filesystems	 1,299		 6%			  702,913		 9%
+miscellaneous	 1,068		 5%			  263,848		 3%
+
+The architecture section of the kernel contains the majority of the
+different files, but the majority of the different lines of code are by
+far in the drivers section.
+
+I tried to categorize what portions of the kernel are changing over
+time, but there did not seem to be a simple way to represent the
+different sections changing based on kernel versions.  Overall, the
+percentage of change seemed to be evenly spread based on the percentage
+that the category took up within the overall kernel structure.
+
+
+
+Who is Doing the Work
+
+release	devel	employers
+2.6.11	479	30
+2.6.12	704	38
+2.6.13	641	39
+2.6.14	632	45
+2.6.15	685	49
+2.6.16	782	56
+2.6.17	787	54
+2.6.18	904	60
+2.6.19	887	67
+2.6.20	730	75
+2.6.21	838	68
+
+All	2998	83
+
+Top contributors overall
+
+name			changes	%total
+Al Viro                   1326 (2.2%)
+David S. Miller           1096 (1.9%)
+Adrian Bunk               1091 (1.8%)
+Andrew Morton              991 (1.7%)
+Ralf Baechle               981 (1.7%)
+Andi Kleen                 856 (1.4%)
+Russell King               788 (1.3%)
+Takashi Iwai               764 (1.3%)
+Stephen Hemminger          650 (1.1%)
+Neil Brown                 626 (1.1%)
+
+Tejun Heo                  606 (1.0%)
+Patrick McHardy            529 (0.9%)
+Randy Dunlap               486 (0.8%)
+Jaroslav Kysela            463 (0.8%)
+Trond Myklebust            445 (0.8%)
+Jean Delvare               436 (0.7%)
+Christoph Hellwig          435 (0.7%)
+Linus Torvalds             433 (0.7%)
+Ingo Molnar                429 (0.7%)
+Jeff Garzik                424 (0.7%)
+
+David Woodhouse            413 (0.7%)
+Paul Mackerras             411 (0.7%)
+David Brownell             398 (0.7%)
+Jeff Dike                  397 (0.7%)
+Ben Dooks                  392 (0.7%)
+Greg Kroah-Hartman         388 (0.7%)
+Herbert Xu                 376 (0.6%)
+Dave Jones                 371 (0.6%)
+Benjamin Herrenschmidt     365 (0.6%)
+Mauro Carvalho Chehab      365 (0.6%)
+
+Roland Dreier              360 (0.6%)
+Dmitry Torokhov            359 (0.6%)
+Alan Cox                   349 (0.6%)
+Alan Stern                 345 (0.6%)
+Eric W. Biederman          332 (0.6%)
+Thomas Gleixner            323 (0.5%)
+Stephen Rothwell           315 (0.5%)
+Alexey Dobriyan            308 (0.5%)
+Christoph Lameter          292 (0.5%)
+Arnaldo Carvalho de Melo   287 (0.5%)
+
+James Bottomley            281 (0.5%)
+Jens Axboe                 275 (0.5%)
+Paolo 'Blaisorblade' Giarrusso  274 (0.5%)
+Paul Mundt                 268 (0.5%)
+David Howells              262 (0.4%)
+Dominik Brodowski          257 (0.4%)
+Nathan Scott               255 (0.4%)
+Matthew Wilcox             250 (0.4%)
+Michael Chan               247 (0.4%)
+Kumar Gala                 243 (0.4%)
+
+
+By signed-off-by lines:
+
+Linus Torvalds            18543 (15.6%)
+Andrew Morton             17177 (14.5%)
+David S. Miller           5267 (4.4%)
+Greg Kroah-Hartman        3824 (3.2%)
+Jeff Garzik               3011 (2.5%)
+Russell King              2149 (1.8%)
+Paul Mackerras            2074 (1.7%)
+Mauro Carvalho Chehab     1876 (1.6%)
+James Bottomley           1870 (1.6%)
+Takashi Iwai              1534 (1.3%)
+
+Adrian Bunk               1478 (1.2%)
+Ralf Baechle              1465 (1.2%)
+Andi Kleen                1432 (1.2%)
+Al Viro                   1378 (1.2%)
+Roland Dreier              885 (0.7%)
+Neil Brown                 784 (0.7%)
+Trond Myklebust            746 (0.6%)
+Tony Luck                  739 (0.6%)
+John W. Linville           722 (0.6%)
+Len Brown                  711 (0.6%)
+
+Patrick McHardy            708 (0.6%)
+David Woodhouse            662 (0.6%)
+Stephen Hemminger          659 (0.6%)
+Thomas Gleixner            639 (0.5%)
+Jaroslav Kysela            628 (0.5%)
+Jean Delvare               625 (0.5%)
+Ingo Molnar                618 (0.5%)
+Tejun Heo                  605 (0.5%)
+Dmitry Torokhov            584 (0.5%)
+Dave Jones                 542 (0.5%)
+
+Martin Schwidefsky         537 (0.5%)
+Randy Dunlap               515 (0.4%)
+Arnaldo Carvalho de Melo   499 (0.4%)
+David Brownell             485 (0.4%)
+Jeff Dike                  474 (0.4%)
+Nathan Scott               442 (0.4%)
+Herbert Xu                 438 (0.4%)
+Jens Axboe                 408 (0.3%)
+Christoph Hellwig          399 (0.3%)
+Dominik Brodowski          398 (0.3%)
+
+Benjamin Herrenschmidt     390 (0.3%)
+Alan Stern                 382 (0.3%)
+Alexey Dobriyan            371 (0.3%)
+Sam Ravnborg               366 (0.3%)
+Antonino Daplas            349 (0.3%)
+Ben Dooks                  343 (0.3%)
+Steven Whitheouse          342 (0.3%)
+Paul Mundt                 340 (0.3%)
+Eric W. Biederman          338 (0.3%)
+Stephen Rothwell           338 (0.3%)
+
+
+Who is Sponsoring the Work
+
