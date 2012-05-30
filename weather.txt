@@ -1,0 +1,49 @@
+
+3.4
+	7.21 changes an hour, fastest kernel ever
+	15.3 million lines long
+
+Big things:
+	btrfs
+		error handling and major performance improvements
+		larger block sizes
+		data recovery tool
+	GPU support added for new chips (nvidia, intel, amd)
+	x32 api support (32bit mode with 64bit pointers)
+	x86 cpu autoprobe
+	verifiable boot path 
+	perf tool enhancements
+	'yama' security model added
+	factor of 10 improvement in swap speed
+	low-level improvements in file lookup speed
+
+minor things
+	nomodule flag to prevent modules from being loaded after booting
+	hyperv support now complete
+	android merge complete, with exception of wakelocks
+	hundreds of new drivers and new devices supported
+
+
+
+3.5
+	tcp connection repair interface added
+	logging reliability added
+	seccomp support added (filter from userspace allowed syscalls)
+	CoDel queue management algorythm added (bufferbloat solution)
+	networking stack added early retransmit support to improve recovery from packet loss
+	numa scheduler redone and improved
+	old, obsolete drivers removed
+	iio interface stabalized
+	vme subsystem stablaized
+
+	android switch code finalized
+	android console code reworked
+	android persistant ram code finalized
+	pin control subsystem has device tree support
+	nfs major fixes
+	new cifs2 filesystem support
+	lots of new USB gadget controller support added
+
+
+
+
