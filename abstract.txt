@@ -1,0 +1,17 @@
+Linux Kernel Development - too fast to be stable
+
+The Linux kernel is the largest collaborative software development projects
+ever.  This talk will discuss exactly how Linux is developed, how fast it is
+happening, who is doing the work, and how we all stay sane keeping up with it.
+It will discuss the development model used, and how it differs from almost all
+"traditional" models of software development.  The talk will also go into ways
+to get involved in the project, and why it is a good thing for students to
+contribute to the kernel development process.
+
+
+Greg Kroah-Hartman is a Fellow at the Linux Foundation.  He is currently
+responsible for the stable Linux kernel releases, and is a maintainer of the
+USB, TTY, and driver core subsystems in the kernel as well as other portions of
+the codebase that he wishes he could forget about.  He is the author of two
+books about Linux kernel development, both free online, and has written many
+papers and articles about the Linux kernel.
