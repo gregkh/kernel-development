@@ -1,0 +1,122 @@
+3.12
+	- faster low-level locks
+	- timerless multiasking
+
+3.13
+	- multi-queue block layer for SSDs
+	- nftables - successor to iptables
+	- nfc payment support
+
+3.14
+	- deadline scheduler - better realtime scheduling
+	- zram moves to mainline
+	- kernel address space randomization
+	- antibufferbloat packet scheduler
+
+3.15
+	- faster resume from suspend
+	- faster erase and zero parts of a file
+	- file cross-rename
+	- fuse write performance speedups
+
+3.16
+	- unified control group heirachy
+	- tcp fast open on ipv6
+	- CONFIG_USB_DEBUG removed
+	- loopback NFS now works
+	- 32bit VDSO gettimeofday() on 64bit kernels
+
+3.17
+	- file sealing - memfd
+	- thunderbolt on Apple hardware
+	- getrandom() syscall
+	- signed kexec kernels
+
+
+3.18
+	- unionfs
+	- eBFP - extended Berkeley packet filter bfp() syscall
+	- f2fs supports atomic writes and trim
+	- small packet network packet improvements - drive highspeed interfaces at full wire speed.
+
+Future
+	- live kernel patching
+	- kdbus
+	- kselftests
+	- O_BENEATH?
+	- cgroup namespaces?  virtualize cgroups
+	-
+
+
+feature overload:
+
+btrfs offline
+AMD Radeon boost
+GPU switching
+separate GPU device nodes
+timerless multiasking
+RAID5 multithreading
+lockref
+better OOM
+XFS recursion
+tty lock rework
+IPC lock rework
+seqlock
+idr
+inittmpfs
+restricted sysfs
+cachefiles
+soft module dependancies
+aio ring page migration
+aio deferred completion
+fair zone allocator
+hugepage node migration
+ssd block allocation
+swap per-cpu allocation
+swap discard async
+detect hybrid MBRs
+dm cache block size limits
+
+btrfs compressed extents
+btrfs UUID rework
+ext4 pre-cacheing
+ext4 external journal
+ext4 corrupt marking
+ext3 external journal
+xfs object readahead
+f2fs inline xattrs
+f2fs garbage control
+pstore compression
+pstore decompression
+pstore extensions
+ceph punch hole
+hfs ACLS
+isofs RW rework
+udf RW rework
+
+TCP_NOTSENT_LOWAT
+TSO autosizing
+tcp_syncookies
+tcp throughput increase
+TS-ECR for RTT
+use RTT for RTO
+ipv6 UDP tunnel segment
+ipv6 RFC 6980
+ipv6 RFC 3810
+bridge multicast snoop
+macvland fdb
+physical port sysfs
+igmp unsolicited report
+tcp_probe ipv6
+netfilter ipv6 SYNPROXY
+reduced txpower 5/10Mhz
+5/10Mhz scanning IBSS
+openvswitch SCTP
+pkt_sched fair queueing
+USBNET USB3 throughput
+OMAP SHAM
+OMAP SHA384/SHA512
+NEON XOR
+vfio-pci hot reset
+64bit PV guest NMIs
+
