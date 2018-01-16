@@ -1,0 +1,3 @@
+bundle install
+
+bundle exec ruby patches_per_hour.rb
