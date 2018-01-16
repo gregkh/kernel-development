@@ -36,6 +36,13 @@ g.hide_legend = true
 #g.title_font = 'Bitter-Regular'
 g.font = 'Bitter'
 
+g.y_axis_increment = 2
+g.baseline_value = 0
+g.baseline_color = 'white'
+g.hide_dots = true
+#g.show_vertical_markers = true
+#g.hide_lines = true
+
 g.data(' ', [
 	# 2006
 	3.04,	2.91,	2.62,	2.77,	3.87,
