@@ -23,7 +23,7 @@ g.labels = {
 #	44 => '2015',
 	49 => '2016',
 #	55 => '2017',
-	61 => '2018',	# it's really 61, but to have it show up now, say 60
+	61 => '2018',
 }
 
 #g.theme = Gruff::Themes::GREYSCALE
@@ -69,7 +69,7 @@ g.data(' ', [
 	# 2017
 	7.76,	7.57,	9.64,	8.6,	8.01,	8.68,
 	# 2018
-	8.04],
+	8.04,	9.01],
 #	)
 	'#72AE6E') # green
 
