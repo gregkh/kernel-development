@@ -5,7 +5,9 @@ GEM
       histogram
       rmagick
     histogram (0.2.4.1)
-    rmagick (4.1.2)
+    pkg-config (1.5.5)
+    rmagick (5.3.0)
+      pkg-config (~> 1.4)
 
 PLATFORMS
   ruby
