@@ -1,0 +1,90 @@
+2024:
+	4992 developers
+	354 employers found
+	76496 changes
+	8.7 changes/hour
+	40 changes/day in stable trees	(20%)
+	10 CVE/day
+
+	1/3 developers contributed 1 change (1500)
+	691 contributed 2 changes
+	410 contributed 3 changes
+	260 contributed 4 changes
+
+Size:
+	39.8 million lines
+	16K rust
+
+Last release:
+	63 days (9 weeks)
+	2001 developers
+	210 companies
+	8.6 changes/hour  (6.7 release was 10.3 changes in Jan 2024)
+
+
+
+Normal patch flow for a "simple" change:
+- Add a new device id for a usb-to-serial driver:
+	- Sent on Jan 23:
+		https://lore.kernel.org/r/20250123-for-johan-meig-slm828-v1-1-6456996e94a5@arinc9.com
+	- developer realised it was wrong, and then sent a new version a day later:
+		https://lore.kernel.org/r/20250124-for-johan-meig-slm828-v2-1-6b4cd3f6344f@arinc9.com
+	- developer asked what was up with the change Feb 9 (just over a week later):
+		 https://lore.kernel.org/r/6e2c4db7-1325-473b-9999-2b1ada418119@arinc9.com
+	- maintainer said "it's the middle of the merge window, please wait"
+		https://lore.kernel.org/r/Z6Hfx4KBeVHCNQVS@hovoldconsulting.com
+	- patch was applied on Feb 11 by the maintainer with some small changes:
+		https://lore.kernel.org/r/Z6tb7us7t7CmK-zV@hovoldconsulting.com
+	- Was sent to the USB maintainer on Feb 13 for inclusion in the latest release as a pull request:
+		https://lore.kernel.org/r/Z64AhiS7ENsTHAPb@hovoldconsulting.com
+	  and taken the same day.
+
+	- Was sent on to Linus as part of a larger pull request on Feb 16:
+			https://lore.kernel.org/r/Z7IAH0twfNXO-j_m@kroah.com
+	- and was part of the 6.14-rc3 release that same day.
+
+	- Then it got picked up on Feb 18 to be included in the next round of
+	  stable kernel releases and put out for larger review as part of the
+	  stable release process on Feb 19:
+		https://lore.kernel.org/r/20250219082601.683263930@linuxfoundation.org
+	- and then was part of the 6.13.4 release which happened on Feb 21:
+		https://lore.kernel.org/r/2025022126-proxy-bribe-10d1@gregkh
+
+	- So, non-critical bugfix, normal device id, took 27 days to get out
+	  into a stable kernel releae (and 1 week of the delay was due to the
+	  merge window being open when no new patches could be applied).
+
+Normal patch flow for a "complex" change:
+	- Bug report about a possible problem on Sep 16, 2024 based on a recent
+	  change that went into the last kernel release:
+		https://lore.kernel.org/all/1a1ab663-d068-40fb-8c94-f0715403d276@ideasonboard.com/
+	- discussion happened for a few days, maintainer eventually got back to
+	  it a few weeks later and proposed a fix on Oct 25
+		https://lore.kernel.org/r/20241025223721.184998-1-saravanak@google.com
+	- Developer instantly realized it needed another change and sent out a
+	  new version, same day:
+	  	https://lore.kernel.org/r/20241026045243.452957-1-saravanak@google.com
+	- Bug reported tested it, said it looked good and worked for them but
+	  could be better, discussion happened for a few days and then a third
+	  version went out on Oct 30:
+		https://lore.kernel.org/r/20241030171009.1853340-1-saravanak@google.com
+	- got pulled into the driver core next branch on Nov 6 and was sent on
+	  to Linus to be part of the 6.13-rc1 release on Dec 1, and was
+	  backported to stable kernels and released on Dec 9.
+
+	- Then people started reporting a memory leak with it, so a new
+	  developer posted a proposed fix for that on Feb 12:
+		https://lore.kernel.org/r/20250212-fix__fw_devlink_relax_cycles_missing_device_put-v1-1-41818c7d7722@bootlin.com
+	- which had a few minor housekeeping issues with it (was not properly
+	  marked as a fix for the previous change so this can be kept track of)
+	- and resent a new version a day later:
+		https://lore.kernel.org/r/20250213-fix__fw_devlink_relax_cycles_missing_device_put-v2-1-8cd3b03e6a3f@bootlin.com
+	- and was applied to the maintainer's tree on Feb 20, where it sits to
+	  to to Linus this week as I was traveling all last week and didn't get
+	  the chance to send changes off to Linus yet.
+
+	- So a bug report, a delay to get a fix, then a second and third
+	  version of the fix, and then a fix for the fix.
+
+	Odds are that last fix will get a CVE as it's a memory leak.
+
