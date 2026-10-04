@@ -1,3 +1,15 @@
+#!/usr/bin/env ruby
+#
+# Generate graphs/patches_per_release/patches_per_hour.png - the "how fast is
+# the kernel changing" slide.
+#
+# Usage (see NOTES in this directory):
+#	bundle install
+#	bundle exec ruby patches_per_hour.rb
+#
+# Data source: the numbers hard-coded below, one value per kernel release.
+# The output is written next to this script, so it can be run from anywhere.
+
 require 'gruff'
 g = Gruff::Line.new(1024)
 g.title = 'Patches merged per hour'
@@ -82,4 +94,4 @@ g.data(' ', [
 #	)
 	'#72AE6E') # green
 
-g.write('patches_per_hour.png')
+g.write(File.expand_path('patches_per_hour.png', __dir__))
