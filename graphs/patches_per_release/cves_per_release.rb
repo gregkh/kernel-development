@@ -1,3 +1,15 @@
+#!/usr/bin/env ruby
+#
+# Generate graphs/patches_per_release/cves_fixed_per_release.png and
+# cves_created_per_release.png - the "is the kernel secure" slides.
+#
+# Usage (see NOTES in this directory):
+#	bundle install
+#	bundle exec ruby cves_per_release.rb
+#
+# Data source: the numbers hard-coded below, one value per kernel release.
+# The outputs are written next to this script, so it can be run from anywhere.
+
 require 'gruff'
 g = Gruff::Line.new(2048)
 g.title = 'CVE fixes per release'
@@ -51,7 +63,7 @@ g.data(' ', [
         1422],
 	'#72AE6E') # green
 
-g.write('cves_fixed_per_release.png')
+g.write(File.expand_path('cves_fixed_per_release.png', __dir__))
 
 g = Gruff::Line.new(2048)
 g.title = 'CVEs created per release'
@@ -153,7 +165,7 @@ g.data(' ', [
   17],  # 7.2
   '#72AE6E') # green
 
-g.write('cves_created_per_release.png')
+g.write(File.expand_path('cves_created_per_release.png', __dir__))
 
 #Linux 6.0:	304
 #Linux 6.1:	194
