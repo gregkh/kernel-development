@@ -1,2 +1,25 @@
+# Editor and backup files
 .*.swp
+*~
+*.bak
+*.orig
+*.rej
+
+# LibreOffice lock files - never commit these
 .~*#
+.~lock.*#
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Generated output from graphs/graph.ruby
+my_fruity_graph.png
+
+# Ruby bundler state for graphs/patches_per_release
+.bundle/
+vendor/bundle/
+
+# Python bytecode from scripts/check_repo.py
+__pycache__/
+*.pyc
