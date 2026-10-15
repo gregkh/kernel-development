@@ -22,7 +22,7 @@ g.labels = {
 g.theme = Gruff::Themes::PASTEL
 
 g.hide_legend = true
-g.title_font = 'Bitter-Regular'
+g.title_font = 'Bitter-Bold'
 #g.font = 'Bitter'
 
 g.y_axis_increment = 500
@@ -75,7 +75,7 @@ g.labels = {
 g.theme = Gruff::Themes::PASTEL
 
 g.hide_legend = true
-g.title_font = 'Bitter-Regular'
+g.title_font = 'Bitter-Bold'
 #g.font = 'Bitter'
 
 g.y_axis_increment = 500
