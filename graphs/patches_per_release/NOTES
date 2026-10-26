@@ -1,3 +1,4 @@
 bundle install
 
 bundle exec ruby patches_per_hour.rb
+bundle exec ruby cves_per_release.rb
