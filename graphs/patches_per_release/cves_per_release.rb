@@ -48,7 +48,7 @@ g.data(' ', [
   1247, # 7.0
   1306, # 7.1
   2299, # 7.2
-  2755],  # 7.3
+  2872],  # 7.3
   '#72AE6E') # green
 
 g.write('cves_fixed_per_release.png')
@@ -102,7 +102,7 @@ g.data(' ', [
   1247, # 7.0
   1306, # 7.1
   2299, # 7.2
-  2755],  # 7.3-rc7
+  2872],  # 7.3-rc7
   '#72AE6E') # green
 g.write('cves_fixed_per_release-rc.png')
 
